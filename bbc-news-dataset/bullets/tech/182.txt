@@ -1,0 +1,4 @@
+- ScanSoft and Gracenote are developing technology to give people access to their film and music libraries simply by voice control
+- They want to give people hands-free access to digital music and films in the car, or at home or on the move
+- Users will be able to request music that fits a mood or an occasion, or a film just by saying the actor's name
+- Pairing voice technologies with Gracenote's vast music database will bring the benefits of speech technologies to a host of consumer devices and enable people to access their media in ways they've never imagined

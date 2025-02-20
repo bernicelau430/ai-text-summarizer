@@ -1,0 +1,4 @@
+- Microsoft warned PC users to update Windows for security.
+- Critical patches fix Internet Explorer flaws.
+- Unpatched flaws can lead to virus attacks.
+- The number of 'critical' security holes was higher than usual.

@@ -1,0 +1,7 @@
+- Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
+- Attempts to view the site through monitoring stations in London, Amsterdam, and Sydney failed.
+- Since the early hours of 25 October, there has been failure of access.
+- Netcraft's monitoring stations in the US managed to view the site with no problems.
+- On 21 October, the George W Bush website began using Akamai.
+- The site can still be seen using anonymous proxy services that are based in the US.
+- The blocking of browsers outside the US began in the early hours of Monday morning.

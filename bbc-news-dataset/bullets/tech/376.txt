@@ -1,0 +1,4 @@
+- The net search giant Google has launched a search service that lets people look for TV programmes.
+- The service, Google Video beta, searches closed caption information that comes with programmes.
+- It searches for and links to TV news, film trailers, and other video and audio clips.
+- The results thrown up by the search will also include programme and episode information like channel, date and time.

@@ -1,0 +1,4 @@
+- Security firm Network Box stopped over 30,000 copies an hour of the Bagle virus at its peak.
+- The new variant is called Bagle.AT, Bagle.BB and Bagle.AU, and the attachment is labeled as either joke or price.
+- As well as plundering Microsoft Outlook for e-mail addresses, Bagle.AT also tries to turn off the firewall and security center services on Windows XP machines.
+- The virus can strike computers running Windows 95, 98, ME, NT, 2000 and XP.

@@ -1,0 +1,8 @@
+- Registering website addresses using alphabets like Cyrillic could open a back door for scammers
+- Fake Paypal.com registered with Verisign by someone who has followed the debate around the IDN system
+- Resulting domain would look identical to real site
+- Fake domain has been handed back to Paypal but it sets a worrying precedent
+- Names look like legitimate companies but lead users to fake sites to steal passwords and credit card details
+- ASCII codes used to represent European languages but for other languages Unicode is used
+- UKIF concerned that the system will let scammers create fake sites more easily
+- IDN has been a work in progress for years and recently approved by the Internet Electronic Task Force

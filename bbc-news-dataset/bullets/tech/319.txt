@@ -1,0 +1,6 @@
+- A system to create website addresses using alphabets like Cyrillic could open a back door for scammers.
+- A fake Paypal.com has already been registered with net domain giant Verisign.
+- The resulting domain as displayed to the users would look identical to the real site.
+- The fake domain has now been handed back to Paypal but it sets a worrying precedent.
+- The UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
+- Registering names that look like that of legitimate companies could become easier for scammers.

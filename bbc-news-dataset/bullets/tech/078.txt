@@ -1,0 +1,6 @@
+- Google has launched a search service for TV programs.
+- It searches closed caption information, linking to news, film trailers, and other video/audio clips.
+- It only searches US channel content currently.
+- Results include program and episode information, channel, date, and time.
+- It also finds the next airing using a US zip code search.
+- Plans include increasing the number of television channels and video content available via Google Video.

@@ -1,0 +1,3 @@
+- The technology would allow digital people and other computer-generated elements to be combined with the actual view seen by tourists as they walk around an historical site.
+- At Pompeii for example, the visitor would not just see the frescos, taverns and villas that have been excavated, but also people going about their daily life.
+- Crucial to the technique is the software that interprets the visitor's view and provides an accurate match between the real and virtual elements.

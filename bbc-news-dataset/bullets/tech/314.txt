@@ -1,0 +1,3 @@
+- Surfers outside the US have been unable to visit the official re-election site of President George W Bush
+- The site can still be seen using anonymous proxy services that are based in the US
+- The blocking of browsers sited outside the US began in the early hours of Monday morning

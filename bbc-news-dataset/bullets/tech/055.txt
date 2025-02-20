@@ -1,0 +1,7 @@
+- A system to create website addresses using alphabets like Cyrillic could be exploited by scammers
+- A fake Paypal.com has already been registered with net domain giant Verisign
+- The resulting domain looks identical to the real site
+- The fake domain has been handed back to Paypal
+- ASCII codes are used to represent European languages, while Unicode is used for other languages
+- The UK Internet Forum (UKIF) is concerned about the system
+- The Internationalized Domain Names (IDN) system has been approved by the Internet Electronic Task Force

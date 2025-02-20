@@ -1,0 +1,5 @@
+- 600,000 connections take the total number of people in the UK signing up for broadband from BT to almost 3.3 million.
+- The numbers of people signing up to broadband include those that get their service direct from BT or via the many companies that re-sell BT lines under their own name.
+- BT reports that more people signed up for broadband in the last three months than in any other quarter.
+- BT Retail provided about 30% of the new broadband customers.
+- Part of the surge in people signing up was due to BT stretching the reach of ADSL beyond 6km.

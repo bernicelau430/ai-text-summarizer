@@ -1,0 +1,5 @@
+- Microsoft warns PC users to update systems with the latest security fixes for Windows flaws.
+- One critical patch fixes some IE flaws.
+- Eight 'critical' security holes could leave PCs open to attack if unpatched.
+- Viruses often follow critical flaw announcements.
+- The number of 'critical' holes is more than usual.

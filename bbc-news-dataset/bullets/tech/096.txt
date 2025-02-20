@@ -1,0 +1,6 @@
+- Surfers outside the US can't visit the official George W. Bush re-election site
+- Since 10-25, attempts to view the site from London, Amsterdam, and Sydney have failed
+- Netcraft's US monitoring stations can view the site with no problems
+- The site can still be seen using anonymous proxy services based in the US
+- On 10-21, the website began using Akamai to ensure content reaches visitors
+- The blocking began early Monday morning

@@ -1,0 +1,8 @@
+- Two prisoners are given the "prisoner's dilemma"
+- The sheriff needs at least one confession to convict the prisoners
+- Each prisoner is told if they confess and are the only one, they will be let off.
+- If your partner confesses, you better confess so you don't get life.
+- If your partner doesn't confess, you get off completely
+- If you both confess, the sheriff doesn't have to let you go.
+- Both prisoners confess, even though they would have been better if they had stayed quiet.
+- Successive attempts to have the last word, make the argument go on and on

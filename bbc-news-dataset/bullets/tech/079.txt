@@ -1,0 +1,6 @@
+- Surfers outside the US have been unable to visit the re-election site
+- Monitors in the US have viewed the site with no problems
+- Monitoring stations in London, Amsterdam and Sydney failed
+- On 21 October, the George W Bush website began using services of a company called Akamai
+- The site can be seen using anonymous proxy services that are based in the US
+- Blocking of browsers began in the early hours of Monday morning

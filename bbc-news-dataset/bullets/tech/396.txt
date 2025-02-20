@@ -1,0 +1,5 @@
+- The EU's Lifeplus project aims to replace audio tours with computer-generated images that bring historical sites to life
+- The technology combines digital people and computer-generated elements with the actual view seen by tourists
+- The camera captures the view and feeds it to software that combines the viewpoint with animated virtual elements
+- Visitors could see life as it was originally lived in places like Pompeii
+- The software interprets the visitor's view and provides an accurate match between the real and virtual elements

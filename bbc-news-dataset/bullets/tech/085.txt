@@ -1,0 +1,5 @@
+- Criminals are using malware for direct criminal ends.
+- Many criminal programs combine technical tricks into one package.
+- Some spyware erases rival malicious programs to have sole control of a PC.
+- Firms are tightening networks to combat the new wave of malicious code.
+- E-mail is not the most likely way to attack due to anti-virus and firewalls.

@@ -1,0 +1,5 @@
+- The government is seeking help regulating Ultra Wideband (UWB) technology.
+- UWB allows streaming large amounts of data over short distances.
+- It can transmit hundreds of megabits of data per second.
+- UWB can create Personal Area Networks for easy data swapping among gadgets.
+- Currently, UWB use is only allowed in the UK under a strict licensing scheme.

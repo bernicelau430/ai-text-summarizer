@@ -1,0 +1,5 @@
+- UWB was used as a sensing technology prior to being adopted as a way for gadgets and computers to communicate.
+- European decisions on what to do with UWB allied with IEEE decisions on the exact specifications for it would help drive adoption.
+- The government's wireless watchdog is seeking help on the best way to regulate the technology behind such networks called Ultra Wideband (UWB).
+- UWB makes it possible to stream huge amounts of data through the air over short distances.
+- The technology has the potential to transmit hundreds of megabits of data per second.

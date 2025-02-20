@@ -1,0 +1,3 @@
+- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned.
+- Registering names that look like that of legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers.
+- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.

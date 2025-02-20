@@ -1,0 +1,6 @@
+- A new technology combines digital people with real views for tourists at historical sites.
+- A camera captures the view and software combines it with animated virtual elements.
+- The goal is to bring the past to life.
+- This would allow visitors a glimpse of life as it was originally lived in places such as Pompeii.
+- The Lifeplus project combines digital and real views, unlike virtual reality.
+- Crucial software interprets the visitor's view and provides an accurate match between real and virtual elements.

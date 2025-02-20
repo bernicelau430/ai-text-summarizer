@@ -1,0 +1,5 @@
+- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
+- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
+- 59% of people said they were worried that RFID tags would allow data to be used more freely by third parties.
+- Ard Jan Vetham, Capgemini's principal consultant on RFID, said the survey showed that retailers needed to inform and educate people about RFID before it would become accepted technology.
+- The survey showed that awareness of tags among consumers in Europe was low.

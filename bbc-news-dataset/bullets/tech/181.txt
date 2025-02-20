@@ -1,0 +1,5 @@
+- Microsoft urges PC users to update systems with the latest security fixes for Windows flaws
+- One critical patch fixes Internet Explorer flaws
+- The monthly security bulletin highlights eight critical security holes that could leave PCs open to attack
+- Critical flaws often lead to virus outbreaks if left unpatched
+- The number of critical holes is higher than usual

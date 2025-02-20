@@ -1,0 +1,4 @@
+- Scientists at Intel have overcome a fundamental problem preventing silicon from being used to generate and amplify laser light.
+- Intel researchers found a way to suck away errant electrons, turning silicon into a material that can both generate and amplify laser light.
+- Telecommunications equipment that amplifies laser light in fiber optic cables is currently very expensive due to the exotic materials used.
+- Silicon is a much better amplifier of light pulses than the material used in fiber optic cables.

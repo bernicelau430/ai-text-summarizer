@@ -1,0 +1,4 @@
+- New strains of the Cabir mobile phone virus use short-range radio technology to leap to any vulnerable phone in range.
+- The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.
+- Despite the warnings, there are so far no reports of any phones being infected by the new variants of Cabir.
+- A mistake in the original Cabir was corrected in the new strains.

@@ -1,0 +1,6 @@
+- Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
+- One of the critical patches fixes some IE flaws.
+- Microsoft flagged up eight "critical" security holes.
+- Spates of viruses follow because home users and businesses leave the flaw unpatched.
+- The most important ones are those which are classed as "critical".
+- The number of holes considered "critical" is more than usual.

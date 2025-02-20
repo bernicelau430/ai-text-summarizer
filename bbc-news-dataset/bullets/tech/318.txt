@@ -1,0 +1,3 @@
+- Call of Duty has been updated for console formats.
+- Pacific Assault does more things right, including autosaving intelligently and having tidier presentation.
+- Both games rely on a carefully stage-managed structure that keeps things ticking along.

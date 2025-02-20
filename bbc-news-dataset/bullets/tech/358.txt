@@ -1,0 +1,4 @@
+- Microsoft has warned PC users to update their systems with the latest security fixes.
+- One of the critical patches fixes some IE flaws.
+- Microsoft flagged up eight critical security holes.
+- When a critical flaw is announced, spates of viruses follow.

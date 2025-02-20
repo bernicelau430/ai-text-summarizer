@@ -1,0 +1,4 @@
+- Old-fashioned audio tour of historical places could soon be replaced with computer-generated images that bring the site to life
+- Unlike virtual reality, the Lifeplus project is about combining digital and real views
+- Visitors would see people going about their daily life
+- Crucial to the technique is the software that interprets the visitor's view and provides an accurate match between the real and virtual elements

@@ -1,0 +1,5 @@
+- Internationalized Domain Names (IDN) system allows website addresses in alphabets like Cyrillic.
+- A fake Paypal.com has been registered using a Cyrillic 'a' that looks like the English 'a'.
+- The fake domain has been handed back to Paypal, but it sets a precedent.
+- UK Internet Forum (UKIF) warns that the system could allow scammers to create fake sites more easily.
+- Registering names that look like legitimate companies but lead to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers.

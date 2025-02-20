@@ -1,0 +1,4 @@
+- Virus mail accounts for just over 15% of all e-mail traffic.
+- A small UK firm received a staggering 12 million e-mails in January.
+- While virus traffic has slowed, denial of service attacks are on the increase.
+- The type of spam currently being sent has subtly altered.

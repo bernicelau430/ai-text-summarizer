@@ -1,0 +1,6 @@
+- Microsoft warns PC users to update systems with latest security fixes
+- Critical patches fix IE flaws
+- Eight critical security holes flagged in monthly security bulletin
+- Unpatched flaws lead to virus outbreaks
+- Number of critical holes is more than usual
+- Most important fixes are those classed as "critical"
