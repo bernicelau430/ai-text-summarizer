@@ -1,7 +1,5 @@
-- LSE rejected a takeover proposal from German rival Deutsche Boerse
-- Euronext is poised to launch a bid for the London Stock Exchange
-- Euronext has a presence in London due to its acquisition of Liffe
-- Trades on the LSE are cleared via Clearnet, in which Euronext has a quarter stake
-- Euronext appointed UBS and ABN Amro as additional advisors
-- Seifert suggested merged company run out of London
-- Frankfurt mayor raised concerns move could cost German jobs
+- US crude oil prices rose above $50 a barrel due to cold weather.
+- Several Opec members said a cut in production was unlikely.
+- Rising prices and strong demand from Asia were cited.
+- Decline in the US dollar against the euro also inflated prices.
+- Freezing temperatures and heavy snowfall increased demand for heating fuel in the US.

@@ -1,3 +1,7 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs
-- The most important patches fix some IE flaws
-- Eight 'critical' security holes could leave PCs open to attack if left unpatched
+- Speegle is a search engine with text-to-speech capabilities.
+- It resembles Google in appearance but has no affiliation with it.
+- Bright colors are used to aid visually impaired users.
+- Experts question the real benefit for the visually impaired.
+- RNIB is evaluating the technology.
+- 80% of surfers use search engines as their first online action.
+- RNIB expresses doubt over Speegle's added value for blind users.

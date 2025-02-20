@@ -1,8 +1,4 @@
-- In 1985, Vodafone was the only mobile network in the UK for nine days
-- The first UK mobile call was on Vodafone, made by Ernie Wise in 1985
-- Mobile service took 10 years to launch after the first portable call in 1973
-- UK mobile phones are celebrating their 20th anniversary
-- Early phones were bulky, expensive (£2,000), and had short battery life (20 minutes)
-- Now, mobile phones are integral to life, with almost 90% of Britons owning one
-- Vodafone alone has 14 million UK customers
-- Early phones used analogue signals, making eavesdropping easy
+- The number of Europeans with broadband has exploded, and the web is eating into TV viewing habits.
+- The number of people with fast internet access has risen by 60% over the past year.
+- The threat to TV was greatest in countries where broadband was on the up, in particular the UK, France and Spain.
+- The total number of Europeans online rose by 12% to 100 million.

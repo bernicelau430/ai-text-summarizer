@@ -1,6 +1,7 @@
-- ScanSoft and Gracenote are developing technology to give people access to their film and music libraries simply by voice control.
-- Music and film fans will be able to control their digital media players just by speaking to them.
-- Pairing voice technologies with Gracenote's music database will bring benefits of speech technologies to a host of consumer devices.
-- They want to give people hands-free access to digital music and films in the car, or at home or on the move.
-- Users will also be able to request music that fits a mood or an occasion, or a film just by saying the actor's name.
-- Portable players are becoming popular in cars and a number of auto firms are working with Apple to device interfaces to control the firm's iPod music player.
+- Portable music players are growing in popularity.
+- One in 10 US adults (22 million people) now owns a digital music player.
+- Apple has expanded its iPod family with a 6GB iPod mini and a 30GB iPod Photo.
+- The gold colored version of the mini will be dropped.
+- Apple is ensuring it keeps a foot in the mobile music door with its recent deal with Motorola to produce a version of iTunes for Motorola phones.
+- People like the idea of building up huge libraries of music.
+- Digital music players are now the gadget of choice among young Americans.

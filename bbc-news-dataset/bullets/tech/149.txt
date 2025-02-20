@@ -1,3 +1,4 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs
-- It flagged up eight "critical" security holes which could leave PCs open to attack if left unpatched
-- The number of holes considered "critical" is more than usual
+- Microsoft is launching a test service called MSN Spaces to allow people to publish blogs.
+- Competitors like Google and AOL already offer services for setting up web journals.
+- Blogs, short for web logs, have become a popular way for people to talk about their lives and express opinions online.
+- It now estimates that the number of blogs in existence has exceeded 4.8 million.

@@ -1,8 +1,6 @@
-- BT reports more people signed up for broadband in the last three months than in any other quarter
-- BT adds 600,000 connections, totaling almost 3.3 million broadband subscribers
-- Includes those subscribing directly through BT or companies reselling BT lines
-- The UK total of 5.3 million translates into 7.5 connections per 100 people
-- BT Retail provided about 30% of the new broadband customers
-- Surge due to BT extending ADSL reach beyond 6km
-- Over 5 million nationally browse the net via broadband
-- Percentage of people using BT lines for voice calls has shrunk to 55.4%
+- Search engines are key to how people use the internet.
+- Search engines match keywords to web pages, but many people still type natural language questions.
+- The BBC's online search engine was used a record amount in 2004.
+- Companies like Google dictate how people travel through websites online.
+- The most requested search terms of 2004 included games, EastEnders, CBBC, John Peel, Harry Potter and Olympics.
+- Strange enquiries included: what is a dog?, how do you say basketball?, what is the name of James Martin's dog?

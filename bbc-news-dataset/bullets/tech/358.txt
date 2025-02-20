@@ -1,4 +1,5 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes.
-- One of the critical patches fixes some IE flaws.
-- Microsoft flagged up eight critical security holes.
-- When a critical flaw is announced, spates of viruses follow.
+- Because the trusted computing base is also used to make digital rights management (DRM) systems more secure, this will give content providers a lot more control over what we can do with music, movies and books that we have bought from them.
+- We need to ensure that trusted computing remains under the control of the users and is not used to take away the freedoms we enjoy today.
+- Hardware security is less common, even if it is a lot safer.
+- Full support for the trusted computing specification will not be available from Microsoft until the next release of Windows, Longhorn.
+- One wonders whether hardware-based DRM will work for those who believe that locking-down digital content is a bad idea, and that the flexibility of copyright law is something that should be embraced and not taken away.

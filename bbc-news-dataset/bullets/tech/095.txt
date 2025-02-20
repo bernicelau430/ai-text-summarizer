@@ -1,8 +1,5 @@
-- EA wants to become the biggest entertainment firm.
-- Video game industry is now bigger than the music industry.
-- Over 50% of EA's games are sold to and played by adults.
-- EA is working to give video games a more central role in popular culture.
-- The firm is discussing a reality TV show where viewers control characters like in The Sims.
-- EA is planning an international awards show similar to the Oscars and Grammys.
-- EA wants celebrities like Robbie Williams or Christina Aguilera in games.
-- The challenge is to keep people playing in their 30s, 40s, and 50s.
+- Mobile games have come a long way in a very short time.
+- Some game makers are also starting to take advantage of the extra capabilities in a mobile.
+- A few games also let you take on people in real time via the network or, if you are sitting close to them, via Bluetooth short-range radio technology.
+- Almost half of all phones now have Java onboard meaning that they can play the increasingly sophisticated games that are available - even the ones that use 3D graphics.
+- Rarely now does an action movie launch without a mobile game tie-in.

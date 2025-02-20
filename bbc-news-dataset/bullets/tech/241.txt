@@ -1,5 +1,5 @@
-- Broadband over the phone line makes up 11.4 million connections.
-- The total number of broadband connections rose to 32.5 million in June 2004.
-- This is compared to 23.5 million in June 2003.
-- The number of broadband connections jumped by 38% in a year.
-- This data is according to the US Federal Communications Commission (FCC).
+- US movie industry sues those facilitating illegal film downloading.
+- Hopes to cut off BitTorrent users from illegal movies at the source.
+- Broadband growth enables faster movie downloads.
+- Industry fears a downturn similar to the music industry if no action is taken.
+- BitTorrent users download movies via links to files on trackers.

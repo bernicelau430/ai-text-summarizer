@@ -1,4 +1,6 @@
-- Broadband over the phone line makes up 11.4 million connections
-- Total broadband connections rose to 32.5 million in the year ending June 2004
-- 23.5 million in June 2003
-- Connections jumped by 38% in a year
+- Tata Teleservices uses lasers to connect customers' offices to their core network.
+- Laser links are faster to set up than traditional cable connections.
+- The company has set up networks in over 700 locations in 12 months using lasers.
+- Lightpointe laser bridges work over distances up to 4km.
+- The lasers route voice and data at speeds of 1-2mbps, though they are capable of 1.25gbps.
+- Getting permission to dig and lay cables is difficult in some areas.

@@ -1,3 +1,6 @@
-- An organisation has been launched to encourage disabled people to get involved in all aspects of motorsport, which is now increasingly possible thanks to technological innovations.
-- Motorcycle racer, Roy Tansley, from Derby developed his electronic sequential gear changer following an accident which resulted in part of his left leg being amputated.
-- Mr Tansley's invention, the Pro-Shift, is designed to work with Hewland gearboxes which are widely used in motorcycle racing.
+- Microsoft had to work hard to ensure that it was easy for game makers to produce titles for the Xbox 2 and for players to get playing.
+- Only with such consistency would the Xbox be able to support the 10-20 million subscribers that it was aiming for.
+- The Xbox would also support well-known industry specifications, such as DirectX, to make it simple for game studios to make titles for the console.
+- This ability to personalise games and in-game characters would be key in the future.
+- Xbox frontman J. Allard said the console looked set to be capable of one trillion calculations per second.
+- Also all titles for the new Xbox will have the same interface to make it easy to play online and buy extras for characters or other add-ons for games.

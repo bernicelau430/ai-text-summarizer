@@ -1,8 +1,4 @@
-- Registering website addresses using alphabets like Cyrillic could open a back door for scammers
-- Fake Paypal.com registered with Verisign by someone who has followed the debate around the IDN system
-- Resulting domain would look identical to real site
-- Fake domain has been handed back to Paypal but it sets a worrying precedent
-- Names look like legitimate companies but lead users to fake sites to steal passwords and credit card details
-- ASCII codes used to represent European languages but for other languages Unicode is used
-- UKIF concerned that the system will let scammers create fake sites more easily
-- IDN has been a work in progress for years and recently approved by the Internet Electronic Task Force
+- Writing a Microsoft Word document can be a dangerous business, according to document security firm Workshare.
+- Up to 75% of all business documents contained sensitive information most firms would not want exposed, a survey by the firm revealed.
+- Sensitive information inadvertently leaked in documents includes confidential contractual terms, competitive information that rivals would be keen to see and special deals for key customers.
+- The problem is particularly acute with documents prepared using Microsoft Word because of the way it maintains hidden records about editing changes.

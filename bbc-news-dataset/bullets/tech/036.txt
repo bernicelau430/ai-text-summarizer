@@ -1,2 +1,4 @@
-- Broadband connections in the US rose to 32.5 million by June 2004, a 38% increase from June 2003
-- Broadband over phone lines accounts for 11.4 million connections
+- Microsoft is investigating a trojan program that attempts to disable its anti-spyware software.
+- The program, called Bankash-A Trojan, is sent as an email attachment.
+- Microsoft doesn't believe the program is widespread.
+- Users are advised to use an anti-virus program.

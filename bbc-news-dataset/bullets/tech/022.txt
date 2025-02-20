@@ -1,6 +1,5 @@
-- Vodafone had the only mobile network in the UK for the first nine days of 1985
-- Britain's first mobile phone call was made on the Vodafone network on January 1, 1985, by Ernie Wise
-- Mobile phones in the UK are celebrating their 20th anniversary
-- When launched, phones were the size of a briefcase, cost about £2,000, and had a 20-minute battery life
-- Now almost 90% of Britons own a handset, and Vodafone has 14 million UK customers
-- Early phones used analogue radio signals, making them easy to eavesdrop on
+- Sun Microsystems launched Sun Grid, a pay-as-you-go service for renting computing power by the hour.
+- Sun Grid users pay $1 (53p) per hour for processing and storage.
+- It relies on Sun's Solaris operating system.
+- Some users want to book capacity of more than 5,000 processors each.
+- Sun likens grid computing to the development of electricity.

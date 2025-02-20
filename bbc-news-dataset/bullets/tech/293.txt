@@ -1,4 +1,18 @@
-- Scientists at Intel have overcome a fundamental problem preventing silicon from being used to generate and amplify laser light.
-- Intel researchers found a way to suck away errant electrons, turning silicon into a material that can both generate and amplify laser light.
-- Telecommunications equipment that amplifies laser light in fiber optic cables is currently very expensive due to the exotic materials used.
-- Silicon is a much better amplifier of light pulses than the material used in fiber optic cables.
+- Currently only a Windows version of the software was in development.
+- Future versions are likely to incorporate some kind of distributed reputation system.
+- This lets moderators prove who they are to the network.
+- It also lets them rate which files are worth downloading.
+- Exeem will combine ideas from BitTorrent and Kazaa.
+- Like BitTorrent, Exeem will have trackers that help point people toward the file they want.
+- It would struggle to be as popular as BitTorrent and Suprnova.
+- This is because early versions were not taking enough care to make sure good copies of files were being shared.
+- When big files were being shared moderation systems were key.
+- The rating system in Exeem seems flawed.
+- It is easy to insert both fake files and fake ratings.
+- This should make the system less vulnerable to legal action aimed at stopping people swapping pirated movies and music.
+- Moderators are the difference between having a system that works and one that's full of crap like Kazaa.
+- Users of the Exeem system will be able to rate files being swapped.
+- This should help stop the spread of fake files.
+- Exeem cannot prevent pollution.
+- Costs of writing the software will be paid for by adverts appearing in the finished version of the program.
+- One site behind the success of the BitTorrent file-swapping system is producing its own software.

@@ -1,7 +1,6 @@
-- The net is key to helping Chinese people keep in touch with friends
-- Net use in China has a very different character than in many Western nations
-- Credit cards are rare because of fears of getting into debt
-- Net users in China will exceed the 137 million US users by 2008
-- The net is a source of many commercial messages
-- Many people use it in preference to the phone or arrange to meet up with friends at net cafes
-- China's net users number 100m but this represents less than 8% of the country's 1.3 billion people
+- Service providers need to ensure networks handle increasing bandwidth demands.
+- Online gaming popularity could cause issues for net service firms.
+- Surge in numbers and bandwidth demands should prompt industry action.
+- Sandvine's CTO warns of the impact of Xbox Live traffic from Halo 2.
+- Providers are making networks intelligent to manage congestion.
+- Analyzing traffic is crucial for retaining bandwidth-hungry gamers.

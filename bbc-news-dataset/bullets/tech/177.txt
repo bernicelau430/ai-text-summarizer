@@ -1,3 +1,6 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
-- On 21 October, the George W Bush website began using the services of a company called Akamai to ensure that the pages, videos and other content on its site reaches visitors.
-- The blocking of browsers sited outside the US began in the early hours of Monday morning.
+- Microsoft is releasing tools that clean up PCs harbouring viruses and spyware.
+- Also releasing a software utility that will help users find and remove any spyware on their home computer.
+- The virus-fighting program will be updated monthly and is a precursor to Microsoft releasing dedicated anti-virus software.
+- Research revealed that 90% of Windows machine have the malicious software on board and, on average, each one harbours 28 separate spyware programs.
+- Microsoft bought Romanian firm GeCAD Software to get hold of its anti-virus technology.
+- In December 2004 it bought New York-based anti-spyware firm Giant Company Software.

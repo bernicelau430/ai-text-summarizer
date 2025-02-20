@@ -1,4 +1,8 @@
-- Sony has billed the machine as the Walkman of the 21st Century and has sold more than 800,000 units in Japan.
-- Sony has said it wanted to launch the PSP in Europe at roughly the same time as the US, but gamers will now fear that the launch has been put back.
-- Nintendo has said it will release the DS in Europe from 11 March.
-- It launched its DS handheld in Japan and the US last year and has sold 2.8 million units.
+- 3G mobile networks need to get faster to deliver fast internet surfing and new services.
+- HSDPA (High Speed Downlink Packet Access), or Super 3G, will be vital for profitable services like mobile internet browsing and mobile video clips.
+- Motorola conducted five trials of its technology and recorded speeds of 2.9Mbps at the edge of an outdoor 3G cell.
+- Sprint ordered a broadband data upgrade to its 3G network at the end of last year.
+- Siemens showed off a system at 3GSM that transmits data at one gigabit a second, up to 20 times faster than current 3G networks.
+- By 2015, the need for transmission capacities is anticipated to rise by a factor of 10.
+- Siemens uses three transmitting and four receiving antennae to soup up mobile communications.
+- The focus has shifted to their evolution into a higher bandwidth service.

@@ -1,8 +1,5 @@
-- The Motorsport Endeavour Club launched to encourage disabled people in motorsport.
-- Technologies on display adapt vehicles for various disabilities.
-- Roy Tansley developed an electronic sequential gear changer after leg amputation.
-- The Pro-Shift invention works with Hewland gearboxes used in motorcycle racing.
-- In competition, the Pro-Shift saves at least 20 seconds per lap.
-- A Subaru Impreza rally car is adapted to accommodate various disabilities.
-- The car is fitted with a 'duck clutch' on the gear stick instead of a clutch pedal.
-- Customers with disabilities have included arm amputees, quadriplegics, stroke survivors, and those with all four limbs amputated.
+- Almost 50% of those questioned said they would trust search engines much less, if they knew information about who paid for results was being hidden.
+- 87% of searchers usually find what they were looking for when using a search engine.
+- A small number, 17%, said they wouldn't really miss search engines if they did not exist.
+- Alongside the growing sophistication of net users is a lack of awareness about paid-for results that many search engines provide alongside lists of websites found by indexing the web.
+- Despite this liking for search sites half of those questioned said they could get the same information via other routes.

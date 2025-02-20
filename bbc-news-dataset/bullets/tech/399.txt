@@ -1,3 +1,5 @@
-- The administrators told BBC News Online that selling Argonaut was the only way to save it as it had run out of cash
-- Argonaut has been making games for some 18 years and is one the largest independent games developers in the UK
-- Argonaut warned that it was low on cash 10 days ago when its shares were suspended from trading on the London Stock Exchange
+- A new European directive could put software writers at risk of legal action.
+- The proposed directive is supported by many of the major software companies.
+- The results will be disastrous for small companies, innovative programmers and the free and open source software movement.
+- The directive goes through it has to be written into national laws and then there will be a steady stream of legal actions against small companies and open source products.
+- Much of the really useful software we use every day, programs like the Apache web server, the GNU/Linux operating system and the fearsomely popular Firefox browser, is developed outside company structures by people who do not have legal departments to check for patent infringements.

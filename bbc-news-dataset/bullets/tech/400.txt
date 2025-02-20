@@ -1,4 +1,7 @@
-- The net is key to helping Chinese people keep in touch with friends
-- Market analysts Panlogic predicts that net users in China will exceed the 137 million US users of the net by 2008
-- China's net users number 100m but this represents less than 8% of the country's 1.3 billion people
-- The arrival of foreign banks in China, due in 2006, could mean greater use of credit cards but for the moment they are rare
+- Amit Yoran was director of the National Cyber Security Division within the US Department of Homeland Security created following the 9/11 attacks.
+- The Cyber Security Division also audited US government networks to discover exactly what was sitting on which network.
+- Mr Yoran took up his post in September 2003 and his first task was to get the Cyber Security Division up and running.
+- Mr Yoran's division was also doing work to identify the networks and machines that had been broken into by cyber criminals.
+- The division was tasked with improving US defences against malicious hackers, viruses and other net-based threats.
+- He left because his division was not given enough clout within the larger organization.
+- Mr Yoran felt frustrated by the lack of prominence given to work to protect against net-based threats in the wider homeland organization.

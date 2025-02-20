@@ -1,4 +1,7 @@
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs
-- Commodore International filed for bankruptcy in 1994 and was sold to Dutch firm Tulip Computers
-- The once-famous Commodore computer brand could be resurrected after being bought by a US-based digital music distributor
-- The Commodore 64 sold more than any other single computer system, even to this day
+- Banks must look after their databases properly.
+- Criminal gangs may be applying for jobs which give them access to confidential customer data.
+- Online bank Cahoot admitted that its customer account details could be read by anyone who could guess a login name.
+- Banks should have good enough records and logs to trace the people who might have accessed the account details.
+- Organizations that process personal data must take proper care of it, as defined in the Data Protection Act.
+- Stringent data protection law, and civil lawsuits are two options that ensure companies improve their internal processes.
+- Banks should take necessary measures to protect consumers from identity theft.

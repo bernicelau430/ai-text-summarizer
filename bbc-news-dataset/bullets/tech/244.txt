@@ -1,5 +1,9 @@
-- A report predicts that nearly 70% of mobile phones sold will have a camera by 2008.
-- Image sensor technology in camera phones is improving.
-- By 2008, 95% of mobiles sold in Japan and Asia Pacific will have cameras.
-- By mid-2005, most camera phones will have image resolution of more than two megapixels.
-- Four times more mobiles with cameras will be sold in Europe by the end of 2004 than last year.
+- Release Dates:
+  - PC: March 1, February 11, February 25
+  - Xbox: February 11, March 11
+  - PS2: March, Release date to be confirmed
+  - DS: Release date to be confirmed
+  - GameCube: Release date to be confirmed
+- Ico remains a benchmark for PS2 gaming.
+- World of Warcraft is a popular high-fantasy massively multiplayer role-player.
+- Advance Wars DS to exploit the two-screen and touch capacity.

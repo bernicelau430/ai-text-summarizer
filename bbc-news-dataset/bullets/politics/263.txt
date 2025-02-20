@@ -1,6 +1,7 @@
-- The sheriff presents two prisoners with a dilemma.
-- If one confesses and the other doesn't, the confessor is released, and the other gets life.
+- This is about the "prisoner's dilemma".
+- The sheriff needs a confession from at least one prisoner to convict them.
+- Each prisoner is told separately that if they confess and are the only one to confess, they will be let off.
+- If neither confesses, the sheriff cannot convict them.
 - If both confess, both are convicted.
-- The best individual logic is to confess, but both would be better off if they stayed silent.
-- Each participant wants the argument to stop, but wants to have the last word.
-- This is the "prisoner's dilemma."
+- The best outcome for both prisoners is to remain silent, but the individual incentive is to confess.
+- This relates to arguments and prolonging them.

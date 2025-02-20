@@ -1,3 +1,6 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says
-- 59% of people said they were worried that RFID tags would allow data to be used more freely by third parties
-- The survey showed that awareness of tags among consumers in Europe was low
+- Ask Jeeves acquired Bloglines to enhance its web indexing capabilities, not just to enter blog publishing.
+- Bloglines' database of 300 million articles will be used to improve Ask Jeeves' web index.
+- Ask Jeeves will help organize Bloglines' database using its own indexing technology.
+- The acquisition will integrate well with Ask Jeeves' My Jeeves service, allowing personalized web experiences.
+- Ask Jeeves is focused on helping people find information rather than helping them write it.
+- The amount Ask Jeeves paid for Bloglines was not revealed.

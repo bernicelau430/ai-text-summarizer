@@ -1,4 +1,4 @@
-- Trade body warns that system to make website addresses easier to create could be used by scammers.
-- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.
-- Registering names that look like that of legitimate companies could lead users to fake sites.
-- The UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
+- Macrovision's RipGuard aims to thwart most DVD ripping programs used for piracy.
+- The technology will work in "nearly all" current DVD players.
+- RipGuard is designed to prevent "rent, rip and return" practices.
+- RipGuard is expected to be rolled out on DVDs from mid-2005.

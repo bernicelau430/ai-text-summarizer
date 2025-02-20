@@ -1,3 +1,5 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
-- The blocking of browsers sited outside the US began in the early hours of Monday morning.
-- The site can still be seen using anonymous proxy services that are based in the US.
+- Computer systems monitoring nuclear power installations are outdated and hampering inspectors' work.
+- IAEA inspectors make around 3,000 visits a year to over 900 nuclear facilities worldwide.
+- The IAEA's current technology is over 20 years old.
+- A major overhaul is needed to allow inspectors immediate, secure online access to information.
+- The organization aims to start a system upgrade in November.

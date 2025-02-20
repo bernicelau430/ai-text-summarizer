@@ -1,7 +1,4 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops.
-- 52% of people believe that RFID tags could be read from a distance.
-- 59% are worried that RFID tags would allow data to be used more freely by third parties.
-- More than half of the respondents are concerned that RFID tags would allow businesses to track consumers.
-- Caspian has claimed that RFID chips could be used to secretly identify people.
-- Awareness of tags among consumers in Europe was low.
-- Retailers need to inform and educate people about RFID before it will become accepted technology.
+- IBM is increasing its commitment to Linux software due to greater customer demand for open-source software.
+- Linux and the open-source software movement are based on the premise that developers should be free to tinker with software programs.
+- IBM is spending $100m over the next three years to boost Linux use.
+- The money will fund technical, research, and marketing initiatives to help customers use Linux on various devices, from handheld computers and phones to powerful servers.

@@ -1,12 +1,5 @@
-- Cellnet and Vodafone were the only mobile phone operators in the UK until 1993.
-- One2One (now T-Mobile) was launched in 1993.
-- Vodafone was the only firm with a mobile network in the UK for the first nine days of 1985.
-- Britain's first mobile phone call was made across the Vodafone network on 1 January 1985 by Ernie Wise.
-- The first call over a portable phone was made in 1973 in New York.
-- It took 10 years for the first commercial mobile service to be launched.
-- Mobile phones in the UK are celebrating their 20th anniversary.
-- Phones used analogue radio signals, making them easy to eavesdrop on.
-- The UK was not far behind the rest of the world in setting up networks in 1985.
-- When phones were launched they were the size of a briefcase, cost about £2,000, and had a battery life of little more than 20 minutes.
-- Mobile phones have become an integral part of modern life, with almost 90% of Britons owning a handset.
-- Vodafone has 14m customers in the UK alone.
+- Research by Nokia shows more people are using their mobile phones for every call.
+- People keep fixed lines for lower call charges, but the future is mobile.
+- In the UK, 69% use fixed phones because they are cheaper than mobiles.
+- South Korea shows the most pronounced move to mobile, with 65% making most calls from mobiles.
+- Older people are more likely to use fixed-line phones.

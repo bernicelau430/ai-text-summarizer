@@ -1,4 +1,5 @@
-- An organisation has been launched to encourage disabled people to get involved in all aspects of motorsport
-- Motorcycle racer, Roy Tansley, from Derby developed his electronic sequential gear changer following an accident
-- The Motorsport Endeavour Club is hoping that putting such technologies on display will result in more disabled people becoming involved in all areas of the sport and at every level
-- Mr Tansley's invention, the Pro-Shift, is designed to work with Hewland gearboxes which are widely used in motorcycle racing
+- Japanese electronics firm Hitachi has unveiled its first humanoid robot, called Emiew, to challenge Honda's Asimo and Sony's Qrio robots.
+- Hitachi said the 1.3m (4.2ft) Emiew was the world's quickest-moving robot yet.
+- Robotics researchers have long been challenged by developing robots that walk in the gait of a human.
+- Last year, car maker Toyota also stepped into the ring and unveiled its trumpet-playing humanoid robot.
+- The robots will be guests at the World Expo later this month.

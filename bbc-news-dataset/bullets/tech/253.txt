@@ -1,6 +1,11 @@
-- First convictions for piracy over peer-to-peer networks in the US
-- Two men operated central hubs in a piracy community organized across Direct Connect
-- Both pleaded guilty to conspiracy to commit felony copyright infringement
-- Faced charges following raids in August by the FBI
-- Piracy group called Underground Network; membership required sharing 1-100 gigabytes of files
-- Raids on suspected copyright thieves (5 homes) and one net service firm
+- Lifts in Taipei 101 Tower are the world's fastest.
+- Take 30 seconds to reach the top of the 508m tower.
+- Can speed up to 24 passengers on a 382m track.
+- Guinness Book of Records declared the 17m per second speed the swiftest.
+- Lifts take longer to descend (almost a minute).
+- 17m/s translates to about 38mph (61km/h).
+- Technologies:
+  - Pressure control system prevents "ear popping".
+  - Active control system balances the lift and removes vibrations.
+  - Streamlined cars reduce whistling noise.
+- Toshiba Elevator and Building Systems installed the lifts.

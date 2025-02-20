@@ -1,3 +1,8 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned.
-- Registering names that look like that of legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers.
-- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.
+- In London, over 63,000 mobile phones have been left in black cabs in the past six months.
+- That averages to about three phones per cab.
+- Danes are seven times more likely to lose their mobile phones in cabs than travelers in Germany, Norway, and Sweden.
+- More than twice as many laptops were left in London cabs compared to nine other surveyed cities.
+- Londoners are the best at losing laptops in cabs.
+- The Mobile Equipment National Database allows registration of phone IDs for return if lost or stolen.
+- Firms like Retrofone offer cheap old-fashioned phones to replace lost expensive ones.
+- Few people back up data on their phones.

@@ -1,4 +1,3 @@
-- New York band Scissor Sisters have won a gig of the year award for their performance at this year's V Festival.
-- The award was voted for by listeners of Virgin Radio, which compiled a top 10 which was mostly dominated by newcomers on the music scene this year.
-- Glasgow's Franz Ferdinand earned a place at number nine for their home-town performance in April.
-- At number seven was Oxfam's Make Fair Trade gig at London's Hammersmith Apollo in October, which featured performances by REM, Razorlight and Coldplay's Chris Martin.
+- Billboard's Hot 100 chart now includes music download sales data
+- UK to compile combined download and sales chart
+- Pop 100 chart combines airplay, digital, and physical sales, focusing on US radio stations playing chart music

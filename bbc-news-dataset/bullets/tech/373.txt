@@ -1,4 +1,8 @@
-- EA said the video game industry was now bigger than the music industry
-- EA was planning an international awards show "similar to the Oscars and the Grammys" which would combine video games, music and movies
-- The challenge was to keep people playing in their 30s, 40s and 50s
-- EA was in advanced stages of discussions over a reality TV show in which viewers could control the actions of the characters as in its popular game The Sims
+- A storage system has been incorporated into 3ami's application to log every computer action.
+- Employers have a legal requirement to store data.
+- The system is a joint venture between 3ami and BridgeHead Software.
+- The system was developed due to the Freedom of Information Act.
+- BridgeHead Software has techniques to prove file integrity legally.
+- The system monitors computer activity, stores it, and retrieves disputed files quickly.
+- The system is claimed to be a break-through in data monitoring and storage.
+- The software monitors keystrokes and actions and can be used as legally binding evidence.

@@ -1,7 +1,10 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US
-- Two men pleaded guilty to one count of conspiracy to commit felony copyright infringement
-- They operated central hubs in a piracy community organized across the Direct Connect peer-to-peer network
-- They faced charges following raids in August on suspected pirates by the FBI
-- Five raids were on homes, and one on a net service firm
-- The piracy group called itself the Underground Network
-- Membership required sharing between 1 and 100 gigabytes of files
+- Group test of 100 home photo printers for PCs.
+- Compared costs to online developers and High Street stores.
+- Some printer ink costs more than £2 per millilitre.
+- Home printing can still be cheaper than High Street stores.
+- High Street photo shops can be cheapest for 6x4in prints.
+- 7x5in and 8x10in prints cheaper to produce at home.
+- Home prints offer better convenience and quality.
+- New printers produce brighter colors and are less likely to fade.
+- Producing an 8x10in print on an Epson R800 costs £1.87.
+- Worth printing at home if you choose the right printer.

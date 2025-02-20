@@ -1,6 +1,5 @@
-- Proposed European law on software patents will not be re-drafted by the European Commission.
-- Supporters say current laws are inefficient and it would serve to even up a playing field.
-- Major tech firms say it is needed to protect inventions.
-- Others fear it will hurt smaller tech firms.
-- The EC says the Council of Ministers will adopt a draft version but review all aspects.
-- EU legislation needs approval of both Parliament and the Council of Ministers.
+- Skype offers free PC-based calls to other Skype users.
+- Users need a free Skype account to make calls via wi-fi without paying for access.
+- Skype Out, its paid service, has attracted 940,000 users.
+- Broadreach and Skype are rolling out a service at 350 UK hotspots.
+- Forthcoming launches include video conferencing, voice mail, and Skype In (receiving calls from landlines and mobiles).

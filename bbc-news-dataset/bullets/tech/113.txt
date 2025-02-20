@@ -1,3 +1,5 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
-- The survey showed that awareness of tags among consumers in Europe was low.
-- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
+- The New Media for a New Millennium (NM2) project aims to develop a new media genre allowing audiences to create their own media worlds.
+- The three-year project will develop software tools for viewers to edit content to their needs.
+- One production will be an experimental TV show driven by text messages from the audience.
+- The tools will obey complex rules of cinematography and editing.
+- Viewers will be able to participate in storylines, manipulate plots, and even the sets and props of TV shows.

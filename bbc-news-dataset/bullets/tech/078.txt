@@ -1,6 +1,5 @@
-- Google has launched a search service for TV programs.
-- It searches closed caption information, linking to news, film trailers, and other video/audio clips.
-- It only searches US channel content currently.
-- Results include program and episode information, channel, date, and time.
-- It also finds the next airing using a US zip code search.
-- Plans include increasing the number of television channels and video content available via Google Video.
+- Blog readership has shot up by 58% in the last year.
+- Reading blogs remains far more popular than writing them.
+- Just under one in 10 of the US's internet users read political blogs during the US presidential campaign.
+- More than 60% of online Americans have still never heard of blogs.
+- The rise of blogs has spawned a new desire for immediate news and information, with six million Americans now using RSS aggregators.

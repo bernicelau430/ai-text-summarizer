@@ -1,9 +1,11 @@
-- Cellnet and Vodafone were the only UK mobile operators until 1993.
-- Vodafone was the only firm with a mobile network in the UK for the first nine days of 1985.
-- Britain's first mobile phone call was made across the Vodafone network on January 1, 1985.
-- The first call over a portable phone was made in 1973 in New York.
-- The phones used analogue radio signals, making them easy to eavesdrop on.
-- In 1985, UK networks allowed people to make calls while walking.
-- Early phones were the size of a briefcase, cost about £2,000, and had a 20-minute battery life.
-- Almost 90% of Britons own a mobile phone today.
-- Vodafone has 14 million customers in the UK alone.
+- High-definition TV (HDTV) is finally taking off, mainly in the US and Japan.
+- HDTV offers up to 1,080 active lines, with each line made up of 1,920 pixels.
+- British TV pictures are made up of 625 lines and about 700 pixels.
+- Many high-end European TV programmes, such as the Athens Olympics, are already produced in high-definition.
+- BSkyB is planning HDTV services in the UK in 2006.
+- The BBC will start broadcasting in HDTV when the time is right, with a whole set of programming.
+- Programmes need to be broadcast in HDTV format and you need an HDTV set to receive them.
+- Viewers in Japan, the US, Australia, Canada, and South Korea are already embracing HDTV.
+- The HDTV hype from the US and Japan has spurred European broadcasters and consumer electronics companies to push for change.
+- Broadcasters like the BBC are working on their own HDTV plans, with no launch date in sight.
+- All television images are made up of pixels and scan lines.

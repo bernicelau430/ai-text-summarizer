@@ -1,3 +1,5 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned
-- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'
-- The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force
+- Visitors to the British Library will be able to get wireless internet access alongside the extensive information available in its famous reading rooms.
+- The technology has been on trial since May and usage levels make the Library London's most active public hotspot.
+- The British Library receives around 3,000 visitors each day and serves around 500,000 readers each year.
+- A study revealed that 86% of visitors to the Library carried laptops.
+- The study, conducted by consultancy Building Zones, found that 16% of visitors came to the Library to sit down and use it as a business centre.

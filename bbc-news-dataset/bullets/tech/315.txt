@@ -1,4 +1,10 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US
-- The two men operated the central hubs in a piracy community organised across the Direct Connect peer-to-peer network
-- Both men pleaded guilty to one count of conspiracy to commit felony copyright infringement
-- The piracy group called itself the Underground Network and membership of it demanded that users share between one and 100 gigabytes of files
+- A fake website is trying to cash in on the tsunami disaster.
+- Spam e-mails directing people to the site started circulating shortly after the domain name was registered.
+- DEC hopes to get the fake site shut down as soon as possible.
+- Patricia Sanders, spokeswoman for the Disaster Emergency Committee said it was aware of the site and had contacted the Computer Crime Unit at Scotland Yard.
+- DEC had contacted US net registrars who handle domain ownership and the net hosting firm.
+- DEC was going to push for all cash donated via the site to be handed over to the official organisation.
+- None of the e-mail addresses supplied on the site work and the real owner of the domain is obscured in publicly available net records.
+- All attempts to contact the people behind the site have failed.
+- BT and DEC's hosting company were also making efforts to get the site shut down.
+- The web address of the fake site is decuk.org, which could be close enough to the official www.dec.org.uk address to confuse some people.

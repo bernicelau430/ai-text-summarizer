@@ -1,5 +1,13 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US.
-- Two men operated central hubs in a piracy community organized across the Direct Connect peer-to-peer network.
-- The Department of Justice said the two men pleaded guilty to one count of conspiracy to commit felony copyright infringement.
-- The piracy group called itself the Underground Network.
-- Membership of the group demanded that users share between one and 100 gigabytes of files.
+- Every game is going to be playable in HD.
+- In the UK, gaming is likely to be the main showcase for HD until broadcasters adopt it.
+- HD support is mandatory in the next generation of consoles.
+- Cross-platform development of games may become more common.
+- Higher capacity storage discs will be standard in the next round of games consoles.
+- TV, films, and games have been gearing up for HD.
+- HD offers up to 1,080 active lines with 1,920 pixels per line.
+- HD could make game production slightly more expensive.
+- HD offers some production changes for console developers.
+- Most standard UK TV pictures are made up of 625 lines and about 700 pixels.
+- With HD, the transition to interactive movies will be seamless and the same quality as cinema releases.
+- Different equipment is needed to receive HD signals, which is expensive.
+- A Lord of the Rings game will be closer to the actual film, especially the CGI.

@@ -1,5 +1,7 @@
-- ScanSoft and Gracenote are developing technology for voice control of film and music libraries
-- The technology will give people hands-free access to digital music and films
-- Users will be able to request music that fits a mood or an occasion
-- The firms gave no indication about whether the iPod, or any other media player, were in mind for the use of the voice control technology
-- Portable players are becoming popular in cars, and auto firms are working with Apple to devise interfaces to control the firm's iPod music player
+- The UK government is launching a rapid alerting service for home computer users about internet security problems.
+- The service will be run by the National Infrastructure Security Coordination Centre (NISCC).
+- Alerts will cover serious threats affecting potentially millions of people, explaining the problem, its impact, and how to avoid trouble.
+- The service will also occasionally send advice on safe computer and phone usage.
+- The service will direct people to security firms for patches.
+- The NISCC stresses the importance of using anti-virus software, firewalls, and software updates in addition to the alerting service.
+- Other similar services include the National Alerting Service for the Netherlands and the US National Cyber Alerting Service.

@@ -1,5 +1,5 @@
-- The 600,000 connections take the total number of people in the UK signing up for broadband from BT to almost 3.3 million.
-- The numbers of people signing up to broadband include those that get their service direct from BT or via the many companies that re-sell BT lines under their own name.
-- BT reports that more people signed up for broadband in the last three months than in any other quarter.
-- Nationally more than 5 million browse the net via broadband.
-- BT stretched the reach of ADSL - the UK's most widely used way of getting broadband - beyond 6km.
+- Microsoft urges PC users to update their systems with the latest security fixes.
+- Critical patches are available for flaws in Windows programs and IE.
+- Eight "critical" security holes have been flagged.
+- Unpatched flaws can lead to virus attacks.
+- The number of "critical" holes is more than usual.

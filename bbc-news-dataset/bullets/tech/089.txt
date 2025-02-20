@@ -1,5 +1,3 @@
-- Cellnet and Vodafone were the only mobile phone operators in the UK until 1993.
-- Vodafone was the only firm with a mobile network in the UK for the first nine days of 1985.
-- Britain's first mobile phone call was made across the Vodafone network on 1 January 1985 by Ernie Wise.
-- Mobile phones in the UK are celebrating their 20th anniversary this weekend.
-- In the 20 years since that day, mobile phones have become an integral part of modern life and now almost 90% of Britons own a handset.
+- Opera does not have to be "trained" to recognise an individual voice.
+- The latest version of the net browser can be controlled by voice command and will read pages aloud.
+- Around 50 voice commands are available and users will have to wear a headset which incorporates a microphone.

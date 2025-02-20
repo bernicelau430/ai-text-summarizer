@@ -1,4 +1,5 @@
-- 40% of those buying home net security programs are retired
-- It is predicted that 40% of all home PC net security buyers will be women in 2005
-- The number of women buying programs to protect PCs from virus, spam and spyware attacks rose by 11.2% each year between 2002 and 2004
-- More than 30,000 PCs a day globally are being recruited into networks that spread spam and viruses
+- A new variant of the Bagle virus (Bagle.AT, Bagle.BB, and Bagle.AU) is spreading.
+- The virus grabs e-mail addresses from Microsoft Outlook and sends itself to new victims.
+- It also tries to turn off the firewall and security center services on Windows XP machines.
+- The virus can strike computers running Windows 95, 98, ME, NT, 2000, and XP.
+- Security firm Network Box stopped more than 30,000 copies an hour of the virus at its peak.

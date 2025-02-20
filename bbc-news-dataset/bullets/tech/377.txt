@@ -1,8 +1,7 @@
-- Cellnet and Vodafone were the only mobile operators in the UK until 1993
-- Vodafone was the only firm with a mobile network for the first nine days of 1985
-- Britain's first mobile phone call was made across the Vodafone network on January 1, 1985
-- Mobile phones in the UK are celebrating their 20th anniversary
-- Phones used analogue radio signals which made them easy to eavesdrop on
-- When launched phones were the size of a briefcase, cost about £2,000 and had a battery life of 20 minutes
-- Now almost 90% of Britons own a handset
-- Vodafone has 14m customers in the UK alone
+- A new law to protect computer users from spyware is being introduced on January 1.
+- California's Consumer Protection Against Spyware Act bans software that takes control of another computer.
+- Adware, a form of spyware, collects information on a user's web-surfing.
+- Spyware can collect a wide range of information from computers.
+- Makers of spying programs could face hefty fines.
+- Spyware is a major nuisance and security threat to PC users.
+- Users are turning to free programs like Spybot and Ad-Aware for protection.

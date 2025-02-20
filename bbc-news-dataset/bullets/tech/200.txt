@@ -1,5 +1,4 @@
-- The new variant is called Bagle.AT, Bagle.BB and Bagle.AU and the attachment bearing the virus code is labelled as either "joke" or "price".
-- The virus can strike computers running Windows 95, 98, ME, NT, 2000 and XP.
-- As well as plundering Microsoft Outlook for e-mail addresses to send itself to, Bagle.AT also tries to turn off the firewall and security centre services on Windows XP machines.
-- BBC News Online has received five warnings about the virus from security companies.
-- Security firm Network Box said that it stopped more than 30,000 copies an hour of the virus as the outbreak reached a peak.
+- Your computer can now help solve the world's most difficult health and social problems.
+- Launched this week, the World Community Grid will use idle computer time to test solutions to these problems.
+- The donated processor cycles will help the WCG create virtual supercomputers via the net.
+- The body will evaluate proposals from leading research, public and not-for-profit organizations, and is expected to oversee up to six projects a year.

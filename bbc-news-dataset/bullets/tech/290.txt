@@ -1,7 +1,7 @@
-- Motorsport Endeavour Club encourages disabled people in motorsport via technology
-- Roy Tansley's electronic sequential gear changer
-- Tansley developed changer after leg amputation
-- Car on display with 'duck clutch'
-- Extensions and adjustment of a rally car is available to make the car available for disabled drivers
-- Tansley's Pro-Shift saves 20 seconds per lap in Isle of Man TT
-- Hawkins customers include amputees and quadriplegics
+- New strains of the Cabir mobile phone virus use short-range radio technology.
+- New Cabir strains will spread via Bluetooth technology to any vulnerable phone in range.
+- F-Secure issued a warning about the new strains of Cabir.
+- The viruses do not do any damage to a phone.
+- The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.
+- There are so far no reports of any phones being infected by the new variants of Cabir.
+- A mistake in the original Cabir meant that the bug would only have been able to infect one phone at a time.

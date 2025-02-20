@@ -1,5 +1,10 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US.
-- Two men operated central hubs in a piracy community organized across the Direct Connect peer-to-peer network.
-- The Department of Justice said both men pleaded guilty to one count of conspiracy to commit felony copyright infringement.
-- Membership required users to share between one and 100 gigabytes of files.
-- The FBI conducted raids on suspected pirates.
+- A BBC speech on mobile TV drew a large crowd.
+- Mobile operators O2 and Vodafone are trialling mobile TV.
+- Scandinavians and Koreans are interested in mobile TV.
+- Samsung has a DMB phone for TU Media's satellite mobile TV service in Korea.
+- DMB offers twice the frames per minute as DVB-H and consumes less battery power.
+- SK Telecom plans to charge $12 a month for 12 video and 12 audio channels via satellite.
+- Nokia is planning to launch its TV to mobile activities in Singapore.
+- The profitability of mobile TV and digital radio is uncertain.
+- Digital Audio Broadcasting may be a good compromise with better sound quality.
+- Mobile internet access enables viewers to get more information on TV adverts.

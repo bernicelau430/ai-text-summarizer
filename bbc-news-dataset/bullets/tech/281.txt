@@ -1,7 +1,18 @@
-- Fake Paypal.com registered with Verisign by someone who followed the debate around the Internationalised Domain Name (IDN) system.
-- Displayed domain looks identical to real site as a Russian 'a' looks just like an English 'a'.
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers.
-- Registering names that look like that of legitimate companies but lead users to fake sites could become a whole lot easier.
-- ASCII codes are used to represent European languages but for other languages a hybrid of a system called Unicode is used.
-- The UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
-- The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force.
+- Bot nets are prevalent due to a change in virus creation.
+- Viruses like Gaobot, Spybot, and Randex have commonly held code.
+- Many groups work on these viruses to produce new variants.
+- The influence of boy hackers writing fast-spreading viruses waned in 2004.
+- Worm writers are more interested in recruiting PCs for bot nets.
+- Bot nets are used to send spam or attack websites.
+- 2004 was the best year for the capture, arrest, and sentencing of virus writers.
+- The first virus for mobile phones emerged in 2004.
+- 2004 saw a rise in criminal use of malicious programs.
+- Eight virus writers were arrested, and some members of the 29A group were sentenced.
+- The count of known viruses broke 100,000.
+- The number of new viruses grew by more than 50%.
+- Phishing attacks against new targets grew at 30% or more per month.
+- This change could mean the end of mass-mailing viruses.
+- Virus writers and hackers are looking to make money.
+- The Cabir virus, discovered in June, hops from phone to phone via Bluetooth.
+- Mass-mailing viruses are not efficient.
+- The number of virus writers arrested was unprecedented.

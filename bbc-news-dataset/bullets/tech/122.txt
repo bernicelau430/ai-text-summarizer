@@ -1,5 +1,7 @@
-- Selling Argonaut was the only way to save it as it had run out of cash.
-- Argonaut was behind the Harry Potter games, which provided a healthy cash flow.
-- 10 days ago its shares were suspended from trading on the London Stock Exchange.
-- Staff were told job losses were necessary to save Argonaut from going under.
-- Argonaut warned in mid-October that it was running out of cash.
+- Windows cash machines have been around for several years
+- Viruses affecting the network of the bank that owns them have caused cash machines to be unavailable for hours
+- Move to Windows in cash machines was not without risks
+- Banks start using Windows cash machines they also change the networking technology used to link the devices to their back office computers
+- 70% of new cash machines being installed were Windows based
+- A cash machine has a lifetime of up to 10 years
+- Only about 10% of all ATMs get swapped for a newer model every year.

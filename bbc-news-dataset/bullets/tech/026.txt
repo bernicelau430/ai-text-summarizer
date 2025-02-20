@@ -1,6 +1,6 @@
-- A proposed European law on software patents will not be re-drafted by the EC despite MEP requests
-- It may cause further delays and controversy
-- Supporters say current laws are inefficient
-- If the European Council agrees, it returns for a second reading at the European Parliament
-- Major tech firms are divided; some support it to protect inventions, others fear it will hurt smaller firms
-- The EC will review all aspects of the directive
+- Spamhaus warns of a novel virus that hides the origins of junk mail by routing it via mail servers of net service firms.
+- This technique could allow spammers to operate with less fear of being caught.
+- Blocking all mail from net firms is impractical.
+- 90% of junk mail filtered by Brightmail (a Symantec subsidiary) is spotted without looking at net addresses.
+- Filtering out emails with web links can stop about 75% of spam.
+- If unchecked, the sheer volume of junk mail could overwhelm legitimate email.

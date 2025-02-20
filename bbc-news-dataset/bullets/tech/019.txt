@@ -1,6 +1,6 @@
-- Most people surveyed (52%) believed that RFID tags could be read from a distance.
-- The survey also showed people would accept RFID if they felt that the technology could mean a reduction in car theft or faster recovery of stolen items.
-- Respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
-- Claimed that RFID chips could be used to secretly identify people and the things they are carrying or wearing.
-- The survey showed that awareness of tags among consumers in Europe was low.
+- Intel scientists have overcome a problem that prevented silicon from generating and amplifying laser light.
+- Silicon can now be used to make components that carry and process light in the form of data pulses.
+- The structure of silicon causes electrons to be ripped off atoms when laser light passes through it.
+- The Intel researchers found a way to suck away these electrons and enable silicon to generate and amplify laser light.
+- Telecommunications equipment that amplifies laser light is currently expensive due to the exotic materials used.
+- Silicon is a better amplifier of light pulses than the material used in fiber optic cables.

@@ -1,4 +1,6 @@
-- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.
-- Registering names that look like that of legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers, says Stephen Dyer, director of UKIF.
-- But the UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
-- As the idea was to prove a point rather than be malicious the fake domain has now been handed back to Paypal but it sets a worrying precedent, Mr Dyer said.
+- A Texas company is considering letting web users use a remote-controlled rifle to shoot down deer, antelope and wild pigs.
+- Mr Underwood is planning to put one of these rigs in a concealed location in a small reserve on his Texas ranch and let people shoot at a variety of game animals.
+- The Live-Shot site lets people shoot 10 rounds at paper and silhouette targets for $5.95 for each 20-minute shooting session.
+- Mr Underwood said that internet hunting could be popular with disabled hunters unable to get out in the woods or distant hunters who cannot afford a trip to Texas.
+- The RSPCA said it had "grave concerns" about people being allowed to go online and remotely control a rifle.
+- Mike Berger, wildlife director of the Texas Parks and Wildlife Department, said current hunting statutes did not cover net or remote hunting.

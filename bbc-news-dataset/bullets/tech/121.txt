@@ -1,8 +1,5 @@
-- The Motorsport Endeavour Club encourages disabled people to get involved in all aspects of motorsport
-- They have technologies on display at the Autosport International 2005 show
-- Roy Tansley developed an electronic sequential gear changer (Pro-Shift) after a leg amputation
-- Pro-Shift is designed for Hewland gearboxes
-- A Subaru Impreza rally car has been adapted to accommodate a variety of disabilities
-- The car on display is fitted with a 'duck clutch'
-- Customers include arm amputees, quadriplegics, stroke survivors, and a woman with all four limbs amputated
-- Mr. Tansley reckons that the Pro-Shift saves at least 20 seconds per lap when he competes in the Isle of Man TT
+- Robots should treat humans as human beings
+- Researchers are finding out how future robot companions should react in social situations.
+- Research focuses on human perception of robots
+- Robots should respect that humans are individuals, have preferences and come from different cultural backgrounds
+- It will take many years to build a robot which would make full use of the robotiquette for human interaction.

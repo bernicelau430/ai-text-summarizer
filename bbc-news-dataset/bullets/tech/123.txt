@@ -1,5 +1,5 @@
-- A computer-generated images bring historical site to life.
-- Technology combines digital people with view seen by tourist.
-- It would allow visitors a glimpse of life as it was originally lived in places such as Pompeii.
-- the Lifeplus project is about combining digital and real views.
-- Software interprets visitor's view and provides match between real and virtual elements.
+- The official re-election site of President George W Bush is blocking visits from overseas users for security reasons
+- The blocking began early on Monday
+- The blocking is not the result of another denial of service attack
+- Policy of trying to stop overseas visitors viewing the site is thought to have been adopted in response to an attack on the georgewbush.com website
+- There are now at least three working alternative domains for the Bush-Cheney campaign that let web users outside the US visit the site.

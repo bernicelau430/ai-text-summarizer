@@ -1,4 +1,5 @@
-- Technology would allow digital people and other computer-generated elements to be combined with the actual view seen by tourists as they walk around an historical site.
-- The camera captures the view and feeds it to software on the computer where the visitor's viewpoint is combined with animated virtual elements.
-- It would allow visitors a glimpse of life as it was originally lived in places such as Pompeii.
-- Unlike virtual reality, which delivers an entirely computer-generated scene to the viewer, the Lifeplus project is about combining digital and real views.
+- An eight megabit service has been launched by internet service provider UK Online.
+- It is 16 times faster than the average broadband package on the market and will pave the way for services such as video-on-demand and broadband TV.
+- The service is possible due to a decision to loosen BT's strangle-hold on telephone exchanges.
+- The service is possible due to a new regime which allows other operators to use BT's exchanges and will initially only be available in towns.
+- The service is twice as fast as any other service on offer in the UK and 16 times faster than most broadband services.

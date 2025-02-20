@@ -1,6 +1,12 @@
-- A system to create website addresses using alphabets like Cyrillic could open a back door for scammers.
-- A fake Paypal.com has already been registered with net domain giant Verisign.
-- The resulting domain as displayed to the users would look identical to the real site.
-- The fake domain has now been handed back to Paypal but it sets a worrying precedent.
-- The UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
-- Registering names that look like that of legitimate companies could become easier for scammers.
+- The technology inside the Cell is being heralded as revolutionary.
+- The Cell processor is different from traditional computers, which use a single processor.
+- Cell uses multiple Cell processors linked together to run lots of calculations simultaneously.
+- The speed of computer memory has been slowly increasing, but the memory technology that accompanies the Cell is a huge leap in performance.
+- The links between the multiple processors can also be extended to reach Cell processors in entirely different systems.
+- Sony will be using the chip inside its PlayStation 3 console.
+- If Cell succeeds, it could provide the jump-start to the fully digital home of the future.
+- Traditional computers use a single processor.
+- Each Cell will be linked to the others, creating a vast home network of computing power.
+- Sony hopes the Cell processor can become the dominant technology in the living room.
+- Intel will be working on new designs to address the problems of its current chips to create a rival technology to Cell.
+- Microsoft and Intel are not going to let Cell take over home computing without a fight.

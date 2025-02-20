@@ -1,5 +1,7 @@
-- Microsoft warns PC users to update systems with the latest security fixes for Windows flaws
-- One critical patch fixes IE flaws
-- Eight "critical" security holes flagged in monthly bulletin
-- Viruses often follow critical flaw announcements
-- More "critical" holes than usual
+- Basic principles of usability, centring around ease of use and clear thinking about a site's total design, were as important as ever.
+- Some design crimes, such as splash screens and web designers indulging their artistic urges have almost disappeared.
+- People are getting more sophisticated in their use of search engines.
+- Success of sites such as Google, Amazon, eBay and Yahoo showed that close attention to design and user needs was important.
+- All are based on user empowerment and make it easy for people to do things on the internet.
+- Design and usability is important because broadband was taking off.
+- Roughly 80% of the things we found 10 years ago are still an issue today.

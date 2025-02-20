@@ -1,10 +1,5 @@
-- Cellnet and Vodafone were the only UK mobile operators until 1993
-- Vodafone had a mobile network monopoly for the first nine days of 1985
-- Ernie Wise made the first UK mobile phone call on Vodafone's network on Jan 1, 1985
-- It took 10 years from the first portable phone call in 1973 for a commercial service to launch
-- UK mobile phones are celebrating their 20th anniversary
-- Analogue radio signals made phones easy to eavesdrop on
-- The UK set up networks in 1985 for making calls while walking
-- Early phones were the size of briefcases, cost £2,000, and had a 20-minute battery life
-- Mobile phones are now an integral part of modern life; almost 90% of Britons own one
-- Vodafone has 14 million UK customers
+- A proposed European law on software patents will not be re-drafted by the European Commission.
+- The directive will probably mean further delays and controversy.
+- The EC will review all aspects of the directive.
+- Supporters say current laws are inefficient.
+- Most EU legislation now needs the approval of both parliament and the Council of Ministers before it becomes law.

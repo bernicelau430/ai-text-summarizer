@@ -1,3 +1,5 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US.
-- The Department of Justice said that both men pleaded guilty to one count of conspiracy to commit felony copyright infringement.
-- The piracy group called itself the Underground Network and membership of it demanded that users share between one and 100 gigabytes of files.
+- Skype allows people to make free PC-based calls to other Skype users.
+- Users will need a Skype account - downloadable for free - and they will then be able to make net calls via wi-fi without paying for net access.
+- Its paid service - dubbed Skype Out - has so far attracted 940,000 users.
+- Wireless provider Broadreach and net telephony firm Skype are rolling out a service at 350 hotspots around the UK this week.
+- It plans to add more paid services with forthcoming launches of video conferencing, voice mail and Skype In, a service which would allow users to receive phone calls from landlines and mobiles.

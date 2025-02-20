@@ -1,5 +1,8 @@
-- Consumers are concerned about RFID tags in shops, according to a survey.
-- 59% of people worry that RFID tags will allow data to be used freely by third parties.
-- More than half (55%) are concerned RFID tags will let businesses track consumers via product purchases.
-- At least one consumer group claims RFID chips could be used to secretly identify people and the things they are carrying or wearing.
-- Awareness of RFID tags among consumers in Europe is low.
+- By early 2005, the net could have two new domain names.
+- Names are 2 of 10 proposed domains being considered by Icann.
+- In 2000, Icann approved 7 other new domains with varying degrees of success.
+- Other proposed names include domains for pornography, Asia, mobile phones, anti-spam, and Catalan language/culture.
+- Icann said its decision on the two domains was in response to detailed technical and commercial information.
+- Despite approval, Icann cautioned there was no guarantee the domains would go into service.
+- There are over 200 domain names, most for nations.
+- The .post and .travel net domains have preliminary approval.

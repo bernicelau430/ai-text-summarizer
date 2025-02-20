@@ -1,4 +1,10 @@
-- A survey revealed that many Britons are unhappy with their internet service.
-- BT and Tiscali have been actively dissuading customers from leaving by offering them a lower price.
-- It is particularly bad news for BT, with almost three times as many people trying to leave as join.
-- With prices set to drop further, everyone is advised to shop around carefully.
+- DRM systems are intended to control consumers.
+- Firms hope to end fragmentation of file formats by working on a common control system.
+- Many firms admit that their DRM systems offer little protection against skilled attackers.
+- Locks and limits on digital files maximize the cash that firms make from consumers.
+- No DRM system has ever prevented piracy or illegal copying.
+- Limits on legal download services could explain the popularity of file-sharing systems.
+- DRM systems are akin to different physical formats like Betamax and VHS.
+- The firms want a system that ensures files play on their hardware but also thwarts illegal copying.
+- The move is a way for the four firms to decide their own destiny on content control systems.
+- Firms hope it will make it harder for consumers to make illegal copies.

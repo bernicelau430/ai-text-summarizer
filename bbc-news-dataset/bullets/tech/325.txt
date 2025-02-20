@@ -1,5 +1,9 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US.
-- Two men pleaded guilty to conspiracy to commit felony copyright infringement.
-- The two men operated the central hubs in a piracy community called the Underground Network.
-- Membership of the network demanded users share between 1 and 100 gigabytes of files.
-- The charges followed FBI raids in August on homes of suspected copyright thieves and a net service firm.
+- Sonaptic is developing more efficient 3D audio technology for small consumer devices like mobile phones.
+- A fishing game is the first title to use the technology, creating a 3D sound field.
+- Sonaptic is working with NTT DoCoMo to set standards for 3D audio on mobile phones.
+- The technology synthesizes information the brain uses to understand sound direction on a mobile phone handset.
+- Firms AM3D and SRS offer stereo-widening technology for mobile phones.
+- Sonaptic hopes the technology will have a big impact in mobile gaming and music downloading.
+- Japan was chosen as the initial focus due to its advanced mobile phone market.
+- The surround sound demo is startling when emerging from a small mobile phone.
+- The ear's structure works as a 3D encoder for sound, helping the brain understand sound origin.

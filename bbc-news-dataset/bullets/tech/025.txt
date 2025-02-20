@@ -1,5 +1,4 @@
-- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.
-- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'.
-- But the computer code would be different, and the site it would lead users to could be a fake.
-- As the idea was to prove a point rather than be malicious the fake domain has now been handed back to Paypal but it sets a worrying precedent.
-- Registering names that look like that of legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers, says Stephen Dyer, director of UKIF.
+- Sony has sold over 800,000 PSP units in Japan, billing it as the Walkman of the 21st Century.
+- The European launch of the PSP may be delayed.
+- Nintendo will release its DS in Europe from March 11.
+- Nintendo has sold 2.8 million DS units after launching in Japan and the US last year.

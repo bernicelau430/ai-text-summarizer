@@ -1,3 +1,9 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned.
-- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'.
-- The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force.
+- The first Visual Radio service in the UK will begin soon with Virgin Radio.
+- Nokia has been working on Visual Radio, which takes an FM signal and enables stations to add information and pictures.
+- Visual Radio is not television but an evolution providing tools for people to participate in radio more easily.
+- The visual channel is run from a computer within the radio station.
+- When you hear an artist you don't know or there's a competition, you can turn on a visual channel parallel to the broadcast.
+- Visual Radio content is transmitted by GPRS, so you need that service enabled.
+- There's also the ability to interact with the radio station, similar to digital television's red button content.
+- Listeners can interact with the radio station in a new way.
+- Initially, Visual Radio functionality will be limited to two Nokia handsets, but other manufacturers may join if successful.

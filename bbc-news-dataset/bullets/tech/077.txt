@@ -1,3 +1,6 @@
-- Selling Argonaut was the only way to save it as it had run out of cash
-- Argonaut was behind the Harry Potter games
-- Argonaut warned that it was low on cash 10 days ago when its shares were suspended from trading
+- Firms are changing the way they defend themselves.
+- Many of the malicious programs written by hi-tech thieves are much more pragmatic and use tried and tested techniques.
+- Many of the criminal programs came from Eastern Europe where cash-rich organized gangs can find a ready supply of technical experts.
+- Programs are now crafted for directly criminal ends.
+- In some cases spyware was being written that searched for rival malicious programs on PCs it infects and then trying to erase them.
+- Firms are tightening up networks with defenses to combat the new wave of malicious code.

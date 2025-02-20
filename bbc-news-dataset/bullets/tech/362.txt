@@ -1,4 +1,7 @@
-- Jim Lanzone, vice president of search properties at Ask Jeeves in the US, said it did not acquire Bloglines just to get a foothold in the blog publishing world.
-- Ask Jeeves said it was not planning to change Bloglines but would use the 300 million articles it has archived to round out its index of the web.
-- There would be no instant sweeping changes to Bloglines, said Mr Lanzone.
-- Mr Lanzone said the acquisition would sit well with Ask's My Jeeves service which lets people customise their own web experience and build up a personal collection of useful links.
+- Email security threats persist due to 'bad email behavior' by users.
+- Nearly a third of email users have clicked on links in spam messages.
+- One in ten email users buy products advertised in spam, making it profitable for spammers.
+- 'Bad behaviour' of email users sustains the spam industry.
+- Clicking spam links exposes users to viruses and confirms active email accounts.
+- Clearswift reports a 180% rise in sex-related spam in the last month.
+- Spammers commonly hide words related to money, drugs, and sex from anti-spam software.

@@ -1,5 +1,6 @@
-- Sony has billed the machine as the Walkman of the 21st Century
-- The Walkman has sold more than 800,000 units in Japan
-- Sony has said it wanted to launch the PSP in Europe at roughly the same time as the US
-- Nintendo will release the DS in Europe from 11 March
-- The DS handheld launched in Japan and the US last year and has sold 2.8 million units
+- The US has taken the lead in supercomputing with IBM's Blue Gene/L machine, reaching 42.7 teraflops in October.
+- Since 1976, computational speed has increased 500,000 times.
+- The Blue Gene/L machine is expected to be five million times faster upon completion next year.
+- Silicon Graphics' Columbia supercomputer is in second place.
+- The Earth Simulator, previously in first place since June 2002, is now third.
+- IBM test results show that Blue Gene/L has managed speeds of 70.72 teraflops.

@@ -1,5 +1,5 @@
-- Criminals are using malware for direct criminal ends.
-- Many criminal programs combine technical tricks into one package.
-- Some spyware erases rival malicious programs to have sole control of a PC.
-- Firms are tightening networks to combat the new wave of malicious code.
-- E-mail is not the most likely way to attack due to anti-virus and firewalls.
+- The Tate is committed to making its art more accessible and technology such as ArtGarden can help with that.
+- Rather than search by the name of an artist or painting, users are shown a selection of pictures.
+- It 'chooses' a selection of pictures, by scoring paintings based on a selection of keywords associated with them.
+- ArtGarden, developed by BT's research unit, is being tested by the Tate as a new way of browsing its online collection of paintings.
+- The technology uses a system dubbed smart serendipity, which is a combination of artificial intelligence and random selection.

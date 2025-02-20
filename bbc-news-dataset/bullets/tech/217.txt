@@ -1,3 +1,5 @@
-- ScanSoft and Gracenote are developing technology to give people access to their film and music libraries simply by voice control
-- They want to give people hands-free access to digital music and films in the car, or at home or on the move
-- Users will also be able to request music that fits a mood or an occasion, or a film just by saying the actor's name
+- Older attacks relied on users not spotting the fact that the site they were visiting was fake, but more recent phishing e-mails simply try to steal details as soon as a message is opened.
+- The number of phishing e-mail messages stopped by security firm MessageLabs has risen more than tenfold in less than 12 months.
+- Security firm MessageLabs was starting to see some phishing attacks become very focused on one company or organisation.
+- Attacks grew substantially throughout 2004, viruses and spam remain popular with cyber-criminals and vandals.
+- One in 16 messages were infected with a virus and 73% of all e-mail was spam.

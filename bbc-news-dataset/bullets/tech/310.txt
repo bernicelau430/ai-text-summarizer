@@ -1,2 +1,7 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
-- The blocking of browsers sited outside the US began in the early hours of Monday morning.
+- The latest version of the net browser can be controlled by voice command and will read pages aloud.
+- Unlike commercially available voice recognition software, Opera doesn't have to be trained.
+- Features like voice activation are not solely aimed at visually impaired people.
+- The voice recognition function is currently only available in English.
+- The browser doesn't yet work well with screen reader software, so its accessibility features are more likely to appeal to those with some residual vision.
+- The voice features are based on IBM technology and are currently only available in the Windows version.
+- Around 50 voice commands are available, and users will have to wear a headset with a microphone.

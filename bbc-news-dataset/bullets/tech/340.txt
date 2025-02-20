@@ -1,7 +1,7 @@
-- Older people and women are increasingly taking charge of protecting home computers
-- 40% of home net security program buyers are thought to be retired
-- Study predicts that 40% of all home PC net security buyers will be women in 2005
-- More retired women (53%) were buying security software than retired men
-- In July last year, UK broadband households surpassed dial-up users for the first time
-- More than 30,000 PCs a day globally are being recruited into spam and virus networks
-- Security messages are reaching a diversity of surfers, but net service providers need to educate new broadband users
+- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers.
+- The Internationalised Domain Names system has recently been approved by the Internet Engineering Task Force.
+- Registering names that look like legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers.
+- A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system.
+- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'.
+- But the computer code would be different, and the site it would lead users to could be a fake.
+- The fake domain has now been handed back to Paypal but it sets a worrying precedent.

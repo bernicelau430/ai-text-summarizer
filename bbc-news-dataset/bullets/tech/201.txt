@@ -1,4 +1,7 @@
-- The once-famous Commodore computer brand could be resurrected after being bought by a US-based digital music distributor.
-- Commodore International filed for bankruptcy in 1994 and was sold to Dutch firm Tulip Computers.
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs.
-- The Commodore 64 sold more than any other single computer system, even to this day.
+- A 2.5 gigapixel image of Delft was created by stitching together 600 single snaps.
+- The image was created by imaging experts from the Dutch research and technology laboratory TNO.
+- The first image of such a size was manually constructed by US photographer Max Lyons in November 2003.
+- The researchers have put the image on a website which lets viewers explore the wealth of detail that it captures.
+- The finished image is 2.5 billion pixels in size - making it about 500 times the resolution of images produced by good consumer digital cameras.
+- Each image was made to slightly overlap so they could be accurately arranged into a composite.
+- That image portrayed Bryce Canyon National Park, in Utah, and was made up of 196 separate photographs.

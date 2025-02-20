@@ -1,7 +1,13 @@
-- EA claims the video game industry is now bigger than the music industry
-- More than 50% of EA's games are sold to and played by adults
-- EA wants to make video games a central part of popular culture
-- The company is developing a reality TV show based on The Sims
-- EA is planning an international awards show for video games, music, and movies
-- The company aims to become the biggest entertainment firm in the world
-- EA acknowledges it will take years to challenge Disney
+- Base station processes satellite transmissions for E-slates.
+- E-slates connect wirelessly to a base station at the school.
+- EduVision runs the pilot project.
+- Project aims to use low-cost systems to provide up-to-date info to students with old textbooks.
+- Solar panel planned for the school to charge E-slates during the day.
+- Goal: Rural African schools access to the same libraries as Oxford and Harvard students.
+- Currently operating in an area with mains electricity.
+- Matthew Herren (EduVision) discusses using satellite radio and E-slates on BBC's Go Digital.
+- Setup is simple: satellite antenna on the school roof.
+- One-way connection makes feedback difficult.
+- Plans to extend to more remote regions.
+- Students at Mbita Point primary school in Kenya use E-slates.
+- EduVision plans to include audio and video files and add more content.

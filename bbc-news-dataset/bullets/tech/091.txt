@@ -1,5 +1,4 @@
-- Nicholas Negroponte is developing a laptop PC for less than $100.
-- He wants the laptops to become more common than mobile phones.
-- The concept is based on experiments in the US state of Maine.
-- He has adapted the idea to his own work in Cambodia.
-- He hopes to distribute and sell laptops in quantities of one million or more to ministries of education.
+- The Movie Association for America's (MPAA) free Parent File Scan software lets parents check their children's computers for peer-to-peer programs.
+- It will also list all movie and music files they have on their hard drive.
+- The MPAA said files found would not be passed on to it.
+- The industry body also said it had launched a second round of legal action against online movie-swappers across the US, but did not say how many were being sued.

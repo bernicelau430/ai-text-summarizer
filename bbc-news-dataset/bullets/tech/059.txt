@@ -1,7 +1,5 @@
-- Older people and women are increasingly taking charge of protecting home computers against malicious net attacks.
-- 40% of those buying home net security programs are retired.
-- 40% of all home PC net security buyers will be women in 2005.
-- More retired women (53%) were buying security software than retired men.
-- The number of women buying programs to protect PCs from virus, spam and spyware attacks rose by 11.2% each year between 2002 and 2004.
-- More than 30,000 PCs a day globally are being recruited into networks that spread spam and viruses.
-- By the end of the year it is thought that more than 30% of UK homes will have broadband net access.
+- A service from the Norwegian Broadcasting Corporation lets people watch TV programmes on their mobiles 24 hours a day.
+- Digital video recorders and video-on-demand services mean people have much more control over what TV they watch.
+- A Gartner report on mobile TV broadcasting in Europe suggests direct broadcasting will have to wait.
+- Mobile phone music services must not be positioned to compete with the PC music experience as the handsets are not yet ready.
+- The European Telecommunications Institute formally adopted Digital Video Broadcasting Handheld (DVB-H) as the mobile TV broadcasting standard for Europe.

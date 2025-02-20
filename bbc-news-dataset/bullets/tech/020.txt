@@ -1,11 +1,8 @@
-- 40% of those buying home net security programs are retired
-- 40% of all home PC net security buyers will be women in 2005
-- Older people and women are increasingly protecting home computers
-- Security messages are reaching a diversity of surfers
-- Net service providers need to educate people about net threats before they go online
-- More than 30% of UK homes will have broadband access by the end of the year
-- More people are taking criminal net threats more seriously because of press coverage
-- More retired women (53%) were buying security software than retired men
-- In July last year, broadband access surpassed dial-up access in UK households
-- The number of women buying security programs rose by 11.2% each year between 2002 and 2004
-- More than 30,000 PCs a day are being recruited into spam and virus networks globally
+- Microsoft is working on a new version of its Internet Explorer web browser (IE 7).
+- This decision is seen as a U-turn, as Microsoft previously saw no need to update the browser.
+- The move is to compete with rivals such as Firefox and Opera.
+- IE 7 will be less vulnerable to bugs that make the current browser a target for criminals.
+- Test versions of IE 7 are due to be released by the summer.
+- The current version of Internet Explorer is four years old and seen as falling behind rivals.
+- Microsoft has regularly issued updates to patch security holes in IE 6.
+- A security bulletin was recently released to patch eight critical security holes in IE.

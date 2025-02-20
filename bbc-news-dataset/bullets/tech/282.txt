@@ -1,5 +1,12 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for Windows flaws.
-- A critical patch fixes some Internet Explorer flaws.
-- Eight critical security holes could leave PCs open to attack if left unpatched.
-- Viruses often follow the announcement of critical flaws.
-- The number of critical holes is more than usual.
+- Media Labs Europe closed because the Irish Government and MIT didn't fund it.
+- The research center was started by the Irish government and MIT.
+- The recession was too deep and long.
+- More than 50 people lost their jobs.
+- BT worked with the Labs on RFID tag developments and video conferencing.
+- The Labs explored how humans could react with technologies differently.
+- The Labs needed 10 million euros a year from corporate sponsors.
+- Individuals will be quickly snapped up by other research labs.
+- Three dozen small firms were attracted to the area.
+- The dot.com recession damaged the Labs’ long-term survival.
+- The center was supposed to be self-funded but failed to attract private cash.
+- Innovative ideas for technologies were developed during its five years.

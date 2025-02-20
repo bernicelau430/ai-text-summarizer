@@ -1,5 +1,9 @@
-- ScanSoft and Gracenote are developing technology for voice control of film and music libraries
-- Users will be able to access their media in the car, at home, or on the move
-- Technology aims to give hands-free access to digital music and films
-- Users can request music by mood or occasion, or films by actor's name
-- The firms gave no indication about which media player they are targeting
+- Goal: Help net service firms communicate and push attacks back to their source.
+- Attacks involve five to ten gigabytes of traffic.
+- Arbor Networks created the fingerprinting system.
+- Signatures of attacks will be shared with those affected.
+- Arbor is providing the service and fingerprint data for free.
+- Information will be passed down the chain of networks to tackle the problem.
+- Firms believe the system will help trace attacks to their source.
+- Eighty large net service firms have implemented software to automatically spot and stop attacks.
+- Criminals use swarms of remotely controlled computers for denial of service attacks, worms, and spam.

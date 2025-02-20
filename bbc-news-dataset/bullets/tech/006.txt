@@ -1,3 +1,8 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says
-- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases
-- Fifty nine percent of people said they were worried that RFID tags would allow data to be used more freely by third parties
+- The Agricultural Information Project helps farmers in the Chancay-Huaral Valley in Peru.
+- It uses a network of community computer centers linked by wireless technology.
+- The Agricultural Information System, with its huaral.org website, is a key element.
+- Farmers can share experiences with others in Peru and around the world.
+- The network helps organize irrigation systems, which are vital in Peru's coastal areas.
+- The Board of Irrigation Users aims to make the network self-sustainable through internet cafe revenue.
+- The project includes training on computers and internet skills.
+- The project was led by Cepes and backed by local institutions and European organizations.

@@ -1,7 +1,9 @@
-- China net use differs from Western nations due to culture and restrictions
-- Credit cards are rare due to debt fears
-- Panlogic predicts China net users will exceed 137 million US users by 2008
-- Government ad restrictions make the net a key commercial message source
-- People prefer net cafes to phones for meeting friends
-- Foreign banks' arrival in 2006 may increase credit card use
-- China has 100m net users, less than 8% of the 1.3 billion population
+- Motorola held a clinic for mobile operators on HSDPA (High Speed Downlink Packet Access), a high-speed, high bandwidth technology.
+- MMO2 is using Lucent technology to offer data speeds of 3.6Mbps on its Isle of Man 3G network, eventually up to 14.4Mbps.
+- Siemens demonstrated a system transmitting faster mobile data at 3GSM.
+- Some operators are opting for Evolution, Data Optimised (EV-DO).
+- Siemens, in collaboration with others, has improved mobile communications using multiple transmitting and receiving antennae.
+- Motorola has recorded speeds of 2.9Mbps at the edge of an outdoor 3G cell using a single HSDPA device in trials.
+- High-Speed Downlink Packet Access (HSDPA) will be vital for profitable services like mobile internet browsing and mobile video clips.
+- The focus has shifted to evolving 3G networks into higher bandwidth services.
+- Siemens plans for a one gigabit network may be more than a user needs today but will be needed by 2015.

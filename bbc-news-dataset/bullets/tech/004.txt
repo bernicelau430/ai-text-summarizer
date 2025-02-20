@@ -1,3 +1,6 @@
-- ScanSoft and Gracenote are developing technology to give people access to their film and music libraries simply by voice control
-- They want to give people hands-free access to digital music and films in the car, or at home or on the move
-- Users will also be able to request music that fits a mood or an occasion, or a film just by saying the actor's name
+- Nicholas Negroponte is developing a laptop PC for less than $100.
+- He believes one laptop per child can aid development for the child, family, village, and neighborhood.
+- The laptop can be used like a textbook.
+- He aims for laptops to be more common than mobile phones.
+- The concept is based on experiments in Maine and Cambodia.
+- He aims to distribute laptops to ministries of education in large quantities.

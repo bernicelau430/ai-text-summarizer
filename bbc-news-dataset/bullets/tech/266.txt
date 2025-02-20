@@ -1,4 +1,7 @@
-- One of Britain's largest independent game makers, Argonaut Games, has been put up for sale.
-- Argonaut was behind the Harry Potter games which provided a healthy flow of cash into the company.
-- Argonaut warned that it was low on cash 10 days ago when its shares were suspended from trading on the London Stock Exchange.
-- The administrators told BBC News Online that selling Argonaut was the only way to save it as it had run out of cash.
+- The original Blinx aimed to attract platform game lovers to Xbox.
+- Players can control time, while pigs control space.
+- Players create two cat and two pig characters instead of playing as Blinx.
+- Puzzles require time control, while pigs create warps, space bubbles, and void traps.
+- Factions compete to recover pieces of a missing Time Crystal.
+- Players swap between pig and feline factions.
+- Time and space are controlled through VCR-style icons.

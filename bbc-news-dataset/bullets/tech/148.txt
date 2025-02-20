@@ -1,4 +1,5 @@
-- The new strains of the Cabir mobile phone virus use short-range radio technology to leap to any vulnerable phone as soon as it is in range.
-- The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.
-- Finnish security firm F-Secure issued a warning about the new strains of Cabir but said that the viruses do not do any damage to a phone.
-- Despite the warnings, there are so far no reports of any phones being infected by the new variants of Cabir.
+- Apple is accused of unlawfully bundling its monopoly in the market for online digital music recordings and portable hard drive digital music players.
+- Apple has sold more than six million iPods and has an 87% market share.
+- Apple's online music store uses a different format for songs than competitors.
+- A lawsuit states that Apple has turned an open standard into an artifice that prevents consumers from using the portable hard drive digital music player of their choice.
+- Apple uses technology to ensure each song bought only plays on the iPod.

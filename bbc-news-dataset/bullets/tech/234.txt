@@ -1,6 +1,11 @@
-- Mr Vetham said the majority of people surveyed (52%) believed that RFID tags could be read from a distance.
-- Fifty-nine percent of people said they were worried that RFID tags would allow data to be used more freely by third parties.
-- Mr. Vetham said the survey showed that retailers needed to inform and educate people about RFID before it would become accepted technology.
-- Over half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
-- At least one consumer group has claimed that RFID chips could be used to secretly identify people and the things they are carrying or wearing.
-- The survey showed that awareness of tags among consumers in Europe was low.
+- It's important for mobile phone operators to get users to send multimedia messages (MMS).
+- Sending MMS offsets the cost of subsidizing handsets.
+- The problem is educating people on how to send MMS using their handsets.
+- Mobile phone operators cap the number of messages to prevent overwhelming the system.
+- Multimedia services are not interoperable across networks and phones, increasing reluctance.
+- 36% of British camera phone users have never sent an MMS, up from 7% in 2003.
+- Research indicates people don't send MMS because they don't know how.
+- The MMS sending rate into the mobile network is fairly constant.
+- Systems getting people used to seeing phones as devices that handle different content are useful.
+- Networks can see dramatic results when they find a good way to get multimedia to customers.
+- The number of MMS messages is capped to avoid swamping narrow channels.

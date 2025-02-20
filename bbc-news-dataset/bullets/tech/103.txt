@@ -1,4 +1,5 @@
-- Commodore was one of the pioneers in home computing
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs
-- The Commodore 64 sold more than any other single computer system
-- Commodore International filed for bankruptcy in 1994 and was sold to Dutch firm Tulip Computers
+- Report predicts nearly 70% of mobile phones sold will have a built-in camera by 2008.
+- By 2008, Gartner predicts that 95% of all mobiles sold in Japan and Asia Pacific will have cameras.
+- By mid-2005, the image resolution of most camera phones is likely to be more than two megapixels.
+- In Europe, cameras on mobiles can take 1.3-megapixel images.
+- Manufacturers are introducing design features like rotating screens, removable memory cards, and easier controls.

@@ -1,7 +1,5 @@
-- Older people and women are increasingly protecting home computers against net attacks.
-- 40% of home net security program buyers are retired.
-- By 2005, 40% of all home PC net security buyers will be women.
-- Retired women (53%) were buying security software than retired men.
-- More people are taking criminal net threats seriously.
-- More than 30,000 PCs are being recruited into networks that spread spam and viruses.
-- The number of women buying programs to protect PCs rose by 11.2% each year between 2002 and 2004.
+- The FBI is warning that a computer virus is being spread via e-mails that purport to be from the FBI.
+- The attachment in the e-mail contains the virus.
+- The FBI does not engage in the practice of sending unsolicited e-mails to the public in this manner.
+- The attachment contains a virus that infects the recipient's computer.
+- Users are warned never to open attachments from unsolicited e-mails or from people they do not know.

@@ -1,4 +1,9 @@
-- ScanSoft and Gracenote are developing technology to give people access to film and music libraries by voice control.
-- Users will be able to request music or a film by saying the actor's name.
-- It is becoming popular in cars and a number of auto firms are working with Apple to device interfaces to control the firm's iPod music player.
-- They want to give people hands-free access to digital music and films in the car, or at home or on the move.
+- Microsoft releases regular security updates to protect PCs.
+- Microsoft is clamping down on pirated versions of Windows by restricting access to security features.
+- It's also increasing efforts to squash software piracy in China, Norway, and the Czech Republic.
+- The company is trying to tackle security threats and crack down on pirated software.
+- Those running pirated Windows programs won't have access to downloads and add-ons.
+- The Windows Genuine Advantage scheme requires people to prove their software is genuine from mid-2005.
+- Microsoft's patches are important because they stop worms, viruses, and other threats.
+- Windows Genuine Advantage was introduced as a pilot scheme in September 2004.
+- Microsoft's Windows is heavily exploited by virus writers seeking new security loopholes.

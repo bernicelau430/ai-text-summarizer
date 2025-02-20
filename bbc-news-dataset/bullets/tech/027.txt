@@ -1,7 +1,6 @@
-- The internet is key for Chinese people to stay in touch with friends.
-- Internet use in China has a different character than in Western nations.
-- Credit cards are rare in China due to debt fears.
-- China's net users will exceed the US by 2008.
-- Government restrictions on TV ads mean the internet is a key source of commercial messages.
-- Many Chinese people prefer using net cafes rather than phones to meet friends.
-- China has 100 million internet users, less than 8% of the population.
+- A fake website (decuk.org) is attempting to exploit the tsunami disaster for fraudulent donations.
+- The Disaster Emergency Committee (DEC) is aware of the site and has contacted Scotland Yard's Computer Crime Unit.
+- DEC has contacted US net registrars and the hosting firm to shut down the site.
+- DEC wants any money donated via the site to be handed over to the official organization.
+- None of the email addresses on the site work, and the real owner of the domain is obscured.
+- BT and DEC's hosting company are also working to get the site shut down.

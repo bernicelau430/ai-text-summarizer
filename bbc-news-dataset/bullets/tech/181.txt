@@ -1,5 +1,4 @@
-- Microsoft urges PC users to update systems with the latest security fixes for Windows flaws
-- One critical patch fixes Internet Explorer flaws
-- The monthly security bulletin highlights eight critical security holes that could leave PCs open to attack
-- Critical flaws often lead to virus outbreaks if left unpatched
-- The number of critical holes is higher than usual
+- Nokia is planning to try out a wireless ticket system on German buses.
+- The system would reduce queues and make travelling easier.
+- Nokia has worked with Philips to develop a shell for the mobile phone that will be compatible with Hanau's existing ticketing system.
+- The system opens up possibilities for mobile devices to interact with everyday environments.

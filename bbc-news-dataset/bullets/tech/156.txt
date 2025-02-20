@@ -1,6 +1,5 @@
-- Panlogic predicts China's internet users will exceed the US by 2008
-- Net use in China has a different character than in many Western nations
-- Government restrictions on TV advertising make the internet a source of commercial messages
-- Credit cards are rare in China due to debt fears
-- Many use the internet instead of phones or to arrange meetups at net cafes
-- China's 100 million net users represent less than 8% of the population
+- One of the sites shut down by the legal campaign was suprnova.org which helped boost the popularity of the BitTorrent system by checking that trackers led to the movies or TV programmes they claimed to.
+- One site behind the success of the BitTorrent file-swapping system is producing its own software that avoids the pitfalls of the earlier program.
+- Exeem would combine ideas from the BitTorrent and Kazaa file-sharing systems.
+- Users of the Exeem system will be able to rate files being swapped to help stop the spread of fake files.
+- Mr Pouwelse said that future versions of file-sharing systems are likely to incorporate some kind of distributed reputation system that lets moderators prove who they are to the network and rate which files are worth downloading.

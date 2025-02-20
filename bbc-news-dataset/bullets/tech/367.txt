@@ -1,3 +1,8 @@
-- Broadband over the phone line makes up 11.4 million connections, according to the FCC figures
-- The total number of people and businesses on broadband rose to 32.5 million in the year ending June 2004, compared to 23.5 million in June 2003
-- The number of people and business connected to broadband jumped by 38% in a year, said the US Federal Communications Commission (FCC)
+- Research is focused on reducing energy consumption in laptop displays.
+- Intel is working with component makers to test and reduce energy consumption in laptops.
+- Improvements in voltage regulators can reduce power loss as heat.
+- New battery chemistries aim to pack more power into the same space.
+- Component shrinking on chips reduces power use.
+- Intel has changed transistor creation to reduce power needs.
+- Fuel cells are not expected to replace solid batteries quickly.
+- The Mobile PC Extended Battery Life (EBL) Working Group shares information on power-efficient notebooks.

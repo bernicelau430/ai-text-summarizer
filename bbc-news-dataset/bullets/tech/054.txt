@@ -1,11 +1,5 @@
-- It is thought that 40% of those buying home net security programs are retired.
-- 40% of all home PC net security buyers will be women in 2005.
-- Older people and women are increasingly taking charge of protecting home computers against malicious net attacks.
-- Security messages are reaching a diversity of surfers.
-- Net service providers still need to educate people about net threats before they go online, particularly if they are new to broadband.
-- More than 30% of UK homes will have broadband net access by the end of the year.
-- More people are taking criminal net threats more seriously because they are reported in the press much more.
-- Viruses written to make headlines by infecting millions are also getting rarer.
-- More retired women (53%) were buying security software than retired men.
-- The number of women buying programs to protect PCs from virus, spam and spyware attacks rose by 11.2% each year between 2002 and 2004.
-- More than 30,000 PCs a day globally are being recruited into networks that spread spam and viruses.
+- A mobile phone that recognizes and responds to movements has been launched in Japan.
+- The PH-S6500 phone was developed by Pantech and can measure calorie consumption and distance run.
+- Users can access other phone functions using arm movements.
+- The phone comes with a tiny motion-control sensor.
+- A motion-sensitive phone was developed by Sharp and launched by Vodafone's Japanese division.

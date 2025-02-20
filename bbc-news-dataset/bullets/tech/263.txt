@@ -1,8 +1,5 @@
-- Cellnet and Vodafone were the only mobile operators in the UK until 1993
-- Vodafone was the only firm with a mobile network for the first nine days of 1985
-- Britain's first mobile call was made on the Vodafone network on January 1, 1985
-- The first call over a portable phone was in 1973 in New York
-- The UK was not far behind the rest of the world in setting up networks in 1985
-- When phones were launched they were the size of a briefcase, cost about £2,000 and had a battery life of 20 minutes
-- Almost 90% of Britons own a handset
-- Vodafone has 14m customers in the UK
+- Wippit offers a music download subscription service.
+- It costs £4.99 per month or £50 per year.
+- Users are moving towards single tracks and subscription services.
+- Technology ensures downloaded music is only playable during subscription.
+- A beta version in the US costs $15 per month for unlimited downloads.

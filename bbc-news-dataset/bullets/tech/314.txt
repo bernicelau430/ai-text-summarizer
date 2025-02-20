@@ -1,3 +1,5 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush
-- The site can still be seen using anonymous proxy services that are based in the US
-- The blocking of browsers sited outside the US began in the early hours of Monday morning
+- Email Systems, an e-mail management firm, has released figures that will alarm firms attempting to cope with spam.
+- Virus mail accounts for just over 15% of all e-mail traffic analysis by the firm has found.
+- A small UK-based engineering firm received 12 million e-mails in January.
+- While virus traffic has slowed down, denial of service attacks are on the increase.
+- The type of spam being sent has subtly altered in the last few months.

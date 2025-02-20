@@ -1,6 +1,10 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
-- One of the critical patches fixes some IE flaws.
-- Microsoft flagged up eight "critical" security holes.
-- Spates of viruses follow because home users and businesses leave the flaw unpatched.
-- The most important ones are those which are classed as "critical".
-- The number of holes considered "critical" is more than usual.
+- The service uses 3GP technology, one of the standards for mobile TV.
+- A service from the Norwegian Broadcasting Corporation lets people watch TV programmes on their mobiles 24 hours a day.
+- Mobile phone music services must not be positioned to compete with the PC music experience as the handsets are not yet ready.
+- Real-time TV broadcasts to mobiles is unlikely in Europe until 2007.
+- Mobile TV will have to overcome several barriers before it is widely taken up.
+- People do not want to trade multimedia services with size and battery life.
+- Digital Video Broadcasting Handheld (DVB-H) was adopted as the mobile TV broadcasting standard for Europe.
+- People have much more control over what TV they watch due to digital video recorders and video-on-demand services.
+- People are also likely to be put off watching TV on such small screens.
+- TV services will have to live up to the expectations of the digital TV generation, which expects good quality images at low prices.

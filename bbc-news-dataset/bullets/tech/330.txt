@@ -1,8 +1,6 @@
-- An organization has been launched to encourage disabled people to get involved in all aspects of motorsport.
-- Motorsport Endeavour Club hopes to get more disabled people involved in all areas of the sport.
-- Roy Tansley developed his electronic sequential gear changer following an accident.
-- He needed to find a way of changing gear using his left leg.
-- Tansley's invention, the Pro-Shift, is designed to work with Hewland gearboxes used in motorcycle racing.
-- A Subaru Impreza rally car has been adapted to accommodate a variety of disabilities.
-- The car is fitted with a 'duck clutch' used instead of the clutch pedal.
-- Tansley reckons that the Pro-Shift saves at least 20 seconds per lap when he competes in the Isle of Man TT.
+- The European Parliament has thrown out a bill that would have allowed software to be patented.
+- Both the European Parliament and a qualified majority of EU states have to approve the bill to become law.
+- The software patents bill could be substantially re-drafted or even scrapped during consultation.
+- Politicians unanimously rejected the bill, requiring another round of consultation for it to have a chance of becoming law.
+- Proponents of the bill said it was a good compromise that avoided the excesses of the American system.
+- The benefits of the bill had been obscured by special interest groups.

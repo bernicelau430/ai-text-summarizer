@@ -1,6 +1,5 @@
-- Commodore was one of the pioneers
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs
-- Commodore International filed for bankruptcy in 1994
-- Sold to Dutch firm Tulip Computers
-- The Commodore 64 sold more than any other single computer system
-- In the late 1980s the firm was a great rival to Atari
+- Broadband prices are dropping, encouraging more people to switch providers.
+- A major issue is suppliers withholding necessary information from customers switching providers.
+- A survey by PC Pro Magazine found that a third of broadband users are unhappy with their current service.
+- BT and Tiscali are reportedly offering lower prices to customers who try to cancel their subscriptions.
+- BT, the UK's largest internet supplier, has significantly more customers trying to leave than join.

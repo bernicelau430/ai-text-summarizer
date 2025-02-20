@@ -1,3 +1,4 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC) despite requests by MEPs.
-- Some major tech firms say it is needed to protect inventions, while others fear it will hurt smaller tech firms
-- Supporters say current laws are inefficient and it would serve to even up a playing field without bringing EU laws in line with the US.
+- The Cellery worm installs a playable version of Tetris on infected PCs.
+- While users play the game, the worm searches for new victims on nearby networks.
+- The risk of infection is thought to be very low.
+- As the game starts, the worm also starts a music file.

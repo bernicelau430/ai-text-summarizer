@@ -1,5 +1,8 @@
-- 600,000 connections take the total number of people in the UK signing up for broadband from BT to almost 3.3 million.
-- The numbers of people signing up to broadband include those that get their service direct from BT or via the many companies that re-sell BT lines under their own name.
-- BT reports that more people signed up for broadband in the last three months than in any other quarter.
-- BT Retail provided about 30% of the new broadband customers.
-- Part of the surge in people signing up was due to BT stretching the reach of ADSL beyond 6km.
+- 52% of people surveyed believed RFID tags could be read from a distance.
+- People would accept RFID if it meant a reduction in car theft or faster recovery of stolen items.
+- 59% were worried that RFID tags would allow data to be used more freely by third parties.
+- Retailers needed to inform and educate people about RFID before it would become accepted technology.
+- 55% were concerned that RFID tags would allow businesses to track consumers.
+- Consumers are very concerned about the use of RFID tags in shops.
+- RFID chips could be used to secretly identify people and the things they are carrying or wearing.
+- Awareness of tags among consumers in Europe was low.

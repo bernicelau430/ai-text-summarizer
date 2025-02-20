@@ -1,6 +1,7 @@
-- Mr. Molyneux was granted an honor for services to the computer games industry.
-- He has been a pivotal figure in the industry for almost 20 years.
-- He was surprised by the honor, as gaming was once considered a fad.
-- He left Bullfrog in 1997 to set up Lionhead Studios.
-- Lionhead Studios was behind the game Black & White.
-- Mr. Molyneux has been behind ground-breaking games such as Populous, Theme Park, and Dungeon Keeper.
+- ScanSoft and Gracenote are developing technology for voice control of media players.
+- Users will be able to control their digital media players by speaking to them.
+- The technology will give users hands-free access to digital music and films.
+- Users can request music based on mood or occasion.
+- No specific media players were mentioned, such as the iPod.
+- Portable players are becoming popular in cars.
+- Some auto firms are working with Apple to device interfaces to control the iPod.

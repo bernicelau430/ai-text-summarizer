@@ -1,6 +1,7 @@
-- A new EU project may replace audio tours with computer-generated images that bring historical sites to life
-- Visitors would see people going about their daily life, for example in Pompeii
-- The technology combines digital and real views
-- The camera captures the view and feeds it to software
-- Software combines the visitor's viewpoint with animated virtual elements
-- The project is driven by a new desire to bring the past to life
+- T-Mobile launched a 3G device with built-in wi-fi.
+- The company will introduce a flat-fee £20 a month wi-fi tariff for UK hotspots.
+- T-Mobile is installing high-speed wi-fi on train services like the London to Brighton line.
+- The company will add the latest Blackberry to its mobile range.
+- T-Mobile plans to nearly double its global hotspots from 12,300 to 20,000.
+- Wi-fi access points will connect to a faster Wimax wireless network along train tracks.
+- The device automatically selects the fastest available network for data transfer.

@@ -1,8 +1,10 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC).
-- This may lead to further delays and controversy.
-- Supporters say current laws are inefficient.
-- The law would even up a playing field without bringing EU laws in line with the US.
-- Major tech firms say it is needed to protect inventions.
-- Others fear it will hurt smaller tech firms.
-- The EC will review all aspects of the directive.
-- Most EU legislation needs approval from both parliament and the Council of Ministers.
+- Microsoft is releasing tools that clean up PCs harbouring viruses and spyware.
+- A software utility will help users find and remove any spyware on their home computer.
+- SP2 upgrade for Windows XP closed many security loopholes.
+- 90% of Windows machines have the malicious software on board.
+- Each one harbours 28 separate spyware programs on average.
+- The virus-fighting program will be updated monthly.
+- It is a precursor to Microsoft releasing dedicated anti-virus software.
+- Before now Microsoft has left the market for PC security software to specialist firms.
+- In 2003 it bought Romanian firm GeCAD Software.
+- In December 2004 it bought New York-based anti-spyware firm Giant Company Software.

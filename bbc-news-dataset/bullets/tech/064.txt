@@ -1,3 +1,5 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
-- In its monthly security bulletin, it flagged up eight "critical" security holes which could leave PCs open to attack if left unpatched.
-- One of the critical patches Microsoft has made available is an important one that fixes some IE flaws.
+- Apple's iTunes will become Motorola's standard music application for its music phones.
+- Good design and new services like music downloads could boost mobile sales in 2005.
+- Balancing storage capacity with battery life is a challenge for mobile music to compete with digital music players.
+- More models with hard drives are likely to be released.
+- Attention to design and aesthetics, as well as music services, will drive sales in 2005.

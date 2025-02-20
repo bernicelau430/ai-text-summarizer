@@ -1,3 +1,8 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
-- Fifty nine percent of people said they were worried that RFID tags would allow data to be used more freely by third parties.
-- The survey showed that awareness of tags among consumers in Europe was low.
+- 52% of people surveyed believed RFID tags could be read from a distance.
+- People would accept RFID if it meant a reduction in car theft or faster recovery of stolen items.
+- 59% were worried RFID tags would allow data to be used more freely by third parties.
+- Retailers need to inform and educate people about RFID before it becomes accepted technology.
+- 55% were concerned RFID tags would allow businesses to track consumers.
+- Consumers are concerned about the use of RFID tags in shops.
+- Caspian claimed RFID chips could be used to secretly identify people.
+- Awareness of tags among consumers in Europe was low.

@@ -1,7 +1,12 @@
-- Survey: consumers concerned about RFID tags in shops.
-- 52% surveyed believed RFID tags could be read from a distance.
-- 55% concerned that RFID tags would allow businesses to track consumers via product purchases.
-- 59% worried that RFID tags would allow data to be used more freely by third parties.
-- Awareness of tags among consumers in Europe was low.
-- People would accept RFID if they felt that the technology could mean a reduction in car theft or faster recovery of stolen items.
-- Retailers need to inform and educate people about RFID before it would become accepted technology.
+- Game playing could make learning languages less of a chore.
+- One drawback of The Sims is the lack of spoken language.
+- Incidental information could reinforce what a player is learning.
+- The hard part of learning a language is understanding what different words refer to.
+- Using pre-prepared game worlds like The Sims is easier due to available tools.
+- Learning via The Sims may mean students don't feel like they are studying.
+- Games like The Sims could be a good way to teach languages.
+- Teaching foreign languages is like learning to ride a bike by studying gravity.
+- Teachers can easily adapt parts of the game for their own lessons.
+- Educationalists have missed the potential of games to help learning.
+- Getting a simulated person to perform everyday activities in a foreign language could be a powerful learning aid.
+- Educationalists should embrace computer games.

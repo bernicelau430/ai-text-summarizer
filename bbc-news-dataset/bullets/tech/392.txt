@@ -1,5 +1,6 @@
-- ScanSoft and Gracenote are developing technology for voice control of media libraries.
-- Music and film fans will be able to control digital media players by speaking.
-- Voice technologies combined with Gracenote's music database will bring the benefits of speech to consumer devices.
-- The firms gave no indication about whether the iPod, or any other media player, were in mind for the use of the voice control technology.
-- Users will be able to request music based on mood or a film by actor's name.
+- More than five million households in the UK have broadband and that number is growing fast.
+- The Demos report looked at the impact of broadband on people's net habits.
+- Broadband is encouraging people to take a more active role online.
+- The Demos report, entitled Broadband Britain: The End Of Asymmetry?, was commissioned by net provider AOL.
+- A quarter of broadband users in Britain regularly upload content and have personal sites.
+- Fast web access is encouraging more people to express themselves online.

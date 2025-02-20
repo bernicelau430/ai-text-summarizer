@@ -1,3 +1,5 @@
-- The Department of Justice said that both men pleaded guilty to one count of conspiracy to commit felony copyright infringement
-- The piracy group called itself the Underground Network and membership of it demanded that users share between one and 100 gigabytes of files
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US
+- A Windows virus called Bofra is turning infected machines into distributors of its malicious code.
+- Bofra turns infected machines into small web servers that happily dole out copies of the virus.
+- Those clicking on the links will inadvertently download the Bofra virus which will then start searching for new addresses to send itself to.
+- The virus uses its own mail sending software to despatch e-mail messages to potential victims but, unlike many other recent viruses, does not itself travel via mail.
+- Filtering firm Clearswift said this tactic of creating thousands of mini web servers was designed to help the virus spread quickly and avoid attempts to shut it down.

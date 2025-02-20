@@ -1,3 +1,6 @@
-- An organisation has been launched to encourage disabled people to get involved in all aspects of motorsport
-- Motorcycle racer, Roy Tansley, from Derby developed his electronic sequential gear changer following an accident
-- The Motorsport Endeavour Club is hoping that putting such technologies on display will result in more disabled people becoming involved in all areas of the sport
+- Google has launched a search service that lets people look for TV programmes.
+- The service, Google Video beta, searches closed caption information that comes with programmes.
+- It searches for and links to TV news, film trailers, and other video and audio clips.
+- It only searches US channel content currently.
+- Results will include programme and episode information like channel, date and time.
+- It also lets people find the next time and channel where a programme will aired locally using a US zip code search function.

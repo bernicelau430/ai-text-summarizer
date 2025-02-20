@@ -1,5 +1,4 @@
-- Microsoft urges PC users to update systems with the latest security fixes for Windows flaws
-- A critical patch addresses IE flaws
-- Eight critical security holes are flagged, leaving PCs open to attack if unpatched
-- Viruses often follow critical flaw announcements
-- The number of critical holes is more than usual
+- Online communities set up by the UK government could encourage public debate and build trust, says the Institute of Public Policy Research (IPPR).
+- The government, suggests Mr Davies, could act as an intermediary or "middleman" to set up public online places of debate and exchange to encourage more "cosmopolitan politics" and public trust in policy.
+- Proposals for ID cards, for instance, could also be widened to see if they could be used online.
+- The key idea to take from systems such as eBay and other online communities is letting members rate each other's reputation by how they treat other members.

@@ -1,4 +1,9 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC) despite requests by MEPs.
-- Most EU legislation now needs the approval of both parliament and the Council of Ministers before it becomes law.
-- Some major tech firms say it is needed to protect inventions, while others fear it will hurt smaller tech firms
-- The EC says the Council of Ministers will adopt a draft version that was agreed upon last May but said it would review "all aspects of the directive".
+- DDoS attacks involve sending large amounts of data to overwhelm sites.
+- Many gambling sites are targeted.
+- Attacks with gigabytes of data are rare.
+- Most attacks hit sites with 10 megabytes of data over short periods.
+- Bigger attacks sending down 200 megabytes of traffic or more were rarely seen.
+- Intelligent net-based systems are needed to combat DDoS attacks.
+- Attacks are often preceded by ransom emails.
+- Attacks use thousands of computers in different countries.
+- Net firms are collaborating to share information about attacks.

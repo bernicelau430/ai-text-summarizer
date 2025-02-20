@@ -1,4 +1,7 @@
-- Broadband over phone lines makes up 11.4 million connections.
-- Total broadband connections rose to 32.5 million in the year ending June 2004.
-- This is compared to 23.5 million in June 2003.
-- The number of broadband connections jumped by 38% in a year.
+- IBM has been granted the most US patents for the past 12 years.
+- The company will release 500 software patents into a "patent commons".
+- IBM received 3,248 patents in 2004 and has over 40,000 current patents.
+- The released patents include software for text recognition and database management.
+- IBM will not seek royalties from the 500 patents.
+- IBM supports Linux to undermine Microsoft.
+- Critics dismiss IBM's move as insubstantial.

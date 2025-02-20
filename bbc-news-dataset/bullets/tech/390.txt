@@ -1,11 +1,9 @@
-- 40% of those buying home net security programs are retired.
-- 40% of all home PC net security buyers will be women in 2005.
-- Older people and women are increasingly taking charge of protecting home computers against malicious net attacks.
-- Security messages are reaching a diversity of surfers.
-- Net service providers still need to take more responsibility in making sure people are educated about net threats before they go online.
-- By the end of the year it is thought that more than 30% of UK homes will have broadband net access.
-- More people are taking these criminal net threats more seriously because, they are reported in the press much more.
-- More retired women (53%) were buying security software than retired men.
-- July last year, the number of UK households accessing the net via broadband surpassed those using dial-up for the first time.
-- The number of women buying programs to protect PCs from virus, spam and spyware attacks rose by 11.2% each year between 2002 and 2004.
-- More than 30,000 PCs a day globally are being recruited into networks that spread spam and viruses.
+- OptInRealBig was fighting several legal battles, most notably against Microsoft.
+- Microsoft is pushing for millions of dollars in damages.
+- OptInRealBig describes itself as a premier internet marketing company.
+- OptInRealBig sought Chapter 11 to keep trading while sorting out its legal battles.
+- OptInRealBig claimed assets of less than $10m but debts of more than $50m, including the $46m that Microsoft is seeking.
+- The company could not continue to contend with legal maneuvers and still run a viable business.
+- The lawsuit was brought by Microsoft and New York attorney general Eliot Spitzer.
+- They alleged that Mr Richter and his accomplices sent billions of spam messages through 514 compromised net addresses in 35 countries.
+- The litigation has been a relentless distraction to contend with.

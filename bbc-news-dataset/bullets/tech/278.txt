@@ -1,4 +1,8 @@
-- A desktop computer was dubbed best performer in a group test of machines that cost only £399 (£469 including VAT).
-- The package of software that comes with the machine is the best money can buy.
-- An entry-level machine designed for basic home use.
-- I think we offer better value once you realise all the extras needed for the Mac Mini.
+- Online photo storage and sharing services are becoming popular.
+- Many people's hard drives are full of photos.
+- Photo giants like Kodak offer website storage, online editing, and print-ordering services.
+- Services allow users to store and share pictures with family and friends.
+- As file sizes increase, storage becomes a problem.
+- Google released free software, Picasa, for organizing and finding digital photos.
+- Picasa automatically detects photos as they are added to a PC.
+- Some services, like Kodak's Ofoto and Snapfish, offer unlimited storage but require print purchases.

@@ -1,6 +1,15 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US.
-- Two men operated central hubs in a piracy community organized across the Direct Connect peer-to-peer network.
-- Both men pleaded guilty to one count of conspiracy to commit felony copyright infringement.
-- The piracy group called itself the Underground Network.
-- Membership demanded users share between 1 and 100 gigabytes of files.
-- The men faced charges following raids by the FBI.
+- Microsoft had delivered development kits to EA, but the company was still waiting on Sony and Nintendo to send kits.
+- EA was beginning to get a sense of the capabilities of the new machines.
+- The introduction of real-world physics is expected to be a major part of the new consoles.
+- Sony, Microsoft, and Nintendo are all expected to release new machines in the next 18 months.
+- Developers are working on a first round of titles to harness the new horsepower.
+- Gamers shouldn't expect games which harness the full potential of the machines in the first year.
+- The distribution method for games would also change radically in the next round of consoles.
+- Codemasters has a central technology group preparing for the next generation of consoles.
+- Developers are working on titles for the new machines regardless of finalized details.
+- It's much smarter if you can get levels as you go.
+- Gamers can go online and buy AI and levels as they go.
+- We want to increase the level of immersion and realism in gaming so people can lose themselves in a game.
+- New libraries of effects are being developed.
+- PS3 will provide graphics indistinguishable from movies.
+- The new machines will provide great leaps in processing and graphical power.

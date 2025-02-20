@@ -1,4 +1,6 @@
-- Broadband over phone lines makes up 11.4 million connections.
-- The total number of broadband connections rose to 32.5 million in the year ending June 2004.
-- This is compared to 23.5 million in June 2003.
-- The number of broadband connections jumped by 38% in a year.
+- People using wireless high-speed net (wi-fi) are being warned about fake hotspots, or access points.
+- Public wi-fi hotspots are accessible after users sign up and pay for use.
+- London leads the global wi-fi hotspots league, with more than 1,000.
+- It made every effort to make its wi-fi secure.
+- Users need to be wary of using their wi-fi enabled laptops or other portable devices in order to conduct financial transactions.
+- Users can also protect themselves by ensuring that their wi-fi device has its security measures activated.

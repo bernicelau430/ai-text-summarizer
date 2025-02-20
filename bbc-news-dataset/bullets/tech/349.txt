@@ -1,4 +1,6 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
-- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
-- Fifty nine percent of people said they were worried that RFID tags would allow data to be used more freely by third parties.
-- The survey showed that awareness of tags among consumers in Europe was low.
+- With a broadband net subscription, you can also get your TV and phone service.
+- The BBC recognizes that TV over broadband is a reality and aims to innovate with it.
+- The corporation's Interactive Media Player (iMP) is its first foray into broadband TV - known as IPTV (Internet Protocol TV).
+- Delivering TV over broadband offers clear public value, says the BBC, because it gives people more control, and more choice.
+- Analysts say that IPTV will account for 10% of the digital TV market in Europe alone by the end of the decade.
+- Since it uses internet technology, IPTV could mean more choice of programmes, more, more interactivity, tailored programming, and more localised content outside of conventional satellite, digital cable, and terrestrial broadcasts.

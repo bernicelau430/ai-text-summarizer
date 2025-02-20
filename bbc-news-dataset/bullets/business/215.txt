@@ -1,9 +1,3 @@
-- South Asia disaster had little immediate impact on US shares
-- Shares in Munich Re and Swiss Re fell 1.7% due to speculation about rebuilding costs
-- In India, the rupee shed 0.1% against the dollar
-- Analysts warned that share prices and currencies would come under increasing pressure as the bills mounted
-- Shares in Europe's leading reinsurers and travel firms fell
-- The Thai baht lost 0.3% against the US currency
-- Investors pointed out that declines would be industry-specific, with the travel and insurance firms hit hardest
-- Travel companies took a hit, with Japan's Kinki Nippon sliding 1.5% and HIS dropping 3.3%
-- Germany's benchmark Dax index closed 16.29 points lower while France's Cac index fell 5.07 points
+- The Act also applies to firms with more than 300 US shareholders, a situation many firms without US listings could find themselves in.
+- It obliges all firms with US stock market listings to make declarations, which, critics say, will add substantially to the cost of preparing their annual accounts.
+- Mr Donaldson said that although the Act does not provide exemptions for foreign firms, the Securities and Exchange Commission (SEC) would "continue to be sensitive to the need to accomodate foreign structures and requirements".

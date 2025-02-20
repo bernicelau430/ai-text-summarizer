@@ -1,3 +1,5 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC) despite requests by MEPs.
-- Most EU legislation now needs the approval of both parliament and the Council of Ministers before it becomes law.
-- Some major tech firms say it is needed to protect inventions, while others fear it will hurt smaller tech firms
+- The European Commission will not re-draft a proposed European law on software patents.
+- The Council of Ministers will adopt a draft version agreed upon last May but will review "all aspects of the directive".
+- Supporters say current laws are inefficient, while others fear it will hurt smaller tech firms.
+- EU legislation needs approval from both parliament and the Council of Ministers.
+- The directive may face further delays and controversy.

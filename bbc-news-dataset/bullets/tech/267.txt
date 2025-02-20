@@ -1,6 +1,7 @@
-- Mr. Molyneux was granted an honor for services to the computer games industry.
-- He has been a pivotal figure in the industry for almost 20 years.
-- He was surprised by the honor because many people thought computer gaming was a fad.
-- He left Bullfrog in 1997 to set up Lionhead Studios.
-- Lionhead Studios was behind the game Black & White.
-- Mr. Molyneux has been behind ground-breaking games of the last 15 years.
+- Web users have many search choices as companies compete with Google.
+- Search is vital for navigating the internet due to information overload.
+- Microsoft and Yahoo are investing heavily in search.
+- Search engines are trying to better understand users for better results.
+- Google has shown that web commerce can work through targeted adverts.
+- Search is becoming indispensable for many people.
+- Search is still clumsy and often fails to find exactly what users want.

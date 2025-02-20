@@ -1,5 +1,8 @@
-- A system to make website addresses using alphabets like Cyrillic could open a back door for scammers.
-- A fake Paypal.com has already been registered with net domain giant Verisign.
-- The resulting domain as displayed to the users would look identical to the real site.
-- The UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.
-- The fake domain has now been handed back to Paypal but it sets a worrying precedent.
+- Billions of devices, from old mobile phones to antique handhelds, will have to be recycled.
+- If Apple gets its way, people will buy a new Mac Mini and throw away their old PC.
+- Old devices are hazardous waste, with monitors full of arsenic and lead.
+- Some components could be useful.
+- The new Waste Electronic and Electrical Equipment directive will oblige manufacturers to accept returned products for recycling from August.
+- Chip giant Intel recently began shipping lead-free circuit boards.
+- Lead additives in petrol helped prevent 'knocking', but the lead ended up in the atmosphere.
+- Now you can't buy petrol with lead additives, and we're all better off.

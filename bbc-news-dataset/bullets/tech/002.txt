@@ -1,4 +1,6 @@
-- The growing criminal use of malware has meant the end of the neat categorisation of different sorts of viruses and malicious programs.
-- With almost any phishing or spyware attack, criminals are guaranteed to catch some people out and have the contacts to exploit what they recover.
-- Programs are now crafted for directly criminal ends and firms are tightening up networks with defenses to combat the new wave of malicious code.
-- Many of the criminal programs came from Eastern Europe where cash-rich organised gangs can find a ready supply of technical experts that will crank out code to order.
+- China introduced net cafe laws in 2002 after a fire.
+- Authorities closed many net cafes in 2004 for illegal operations.
+- China is concerned about the unhealthy influence of net cafes on young people.
+- Children's use of net cafes is tightly regulated.
+- In 2004, many websites were shut down and people arrested in a crackdown on net porn.
+- Net cafes are popular due to the high cost of computer hardware.

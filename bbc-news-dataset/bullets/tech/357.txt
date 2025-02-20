@@ -1,4 +1,5 @@
-- Consumers are very concerned about the use of radio frequency ID (RFID) tags in shops
-- Retailers needed to inform and educate people about RFID before it would become accepted technology
-- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases
-- Awareness of tags among consumers in Europe was low
+- More than one million computers on the net have been hijacked to attack websites and pump out spam and viruses.
+- Using a 'bot net of machines spread around different networks and nations makes such attacks hard to defend against.
+- The detailed look at zombie or 'bot nets of hijacked computers was done by the Honeynet Project.
+- During the monitoring period, the team saw 'bot nets used to launch 226 distributed denial-of-service attacks on 99 separate targets.
+- The largest network of so-called zombie networks spied on by the team was made up of 50,000 hijacked home computers.

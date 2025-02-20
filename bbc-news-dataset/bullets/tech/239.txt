@@ -1,5 +1,6 @@
-- A fake Paypal.com has already been registered with net domain giant Verisign.
-- But the computer code would be different, and the site it would lead users to could be a fake.
-- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'.
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers.
-- The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force.
+- The internet may get two new domain names: .mobi and .jobs.
+- .mobi would be for websites and services designed for mobile phones.
+- .jobs could be used by companies for dedicated job posting sites.
+- The Internet Corporation for Assigned Names and Numbers (Icann) has given preliminary approval.
+- The process to launch the new domain names could take months, and there are no guarantees of acceptance.
+- They are among 10 new names being considered by Icann.

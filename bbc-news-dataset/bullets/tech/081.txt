@@ -1,5 +1,4 @@
-- Microsoft warns PC users to update systems with the latest security fixes for Windows flaws.
-- One critical patch fixes some IE flaws.
-- Eight 'critical' security holes could leave PCs open to attack if unpatched.
-- Viruses often follow critical flaw announcements.
-- The number of 'critical' holes is more than usual.
+- Almost 50% of those questioned said they would trust search engines much less, if they knew information about who paid for results was being hidden.
+- 87% of searchers usually find what they were looking for when using a search engine.
+- 17% said they wouldn't really miss search engines if they did not exist.
+- Half of those questioned said they could get the same information via other routes.

@@ -1,6 +1,4 @@
-- 600,000 new connections bring BT's UK broadband total to almost 3.3 million
-- This includes those getting service directly from BT and through companies reselling BT lines
-- More people signed up for broadband in the last three months than in any other quarter
-- Over 5 million in the UK browse the net via broadband
-- Part of the surge was due to BT extending ADSL reach beyond 6km
-- There are over 300 firms offering CPS services and the percentage of people using BT lines for voice calls has shrunk to 55.4%
+- Apple has won its legal fight to make three bloggers reveal who told them about unreleased products.
+- Apple's lawsuit accused anonymous people of stealing trade secrets about the Asteroid music product and leaking them to the PowerPage, Apple Insider and Think Secret websites.
+- The Electronic Frontier Foundation is planning to appeal against the ruling because the bloggers were journalists and US federal laws stop net firms handing over copies of e-mail messages if the owner of that account does not give their consent.
+- Apple can now get its hands on e-mail records from the bloggers' net providers.

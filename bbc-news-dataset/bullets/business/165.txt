@@ -1,7 +1,4 @@
-- BCC said there are worrying signs for manufacturing despite positive news for the export sector.
-- Confidence increased in the quarter across both the manufacturing and service sectors but failed to reach the levels at the start of 2004.
-- The outlook for the service sector was "uncertain" despite an increase in exports and orders over the quarter.
-- The UK manufacturing sector will continue to face "serious challenges" over the next two years.
-- The whole UK economy still faced "major risks" and growth is set to slow.
-- The reduced threat of interest rate increases had contributed to improved confidence.
-- The rise came despite exchange rates being cited as a major concern.
+- US economic growth accelerated in the third quarter, helped by strong consumer spending.
+- Consumer spending grew at 4.6% in the third quarter, up from just 1.6% in the second.
+- The economy expanded at an annual rate of 3.7% in the July to September period.
+- Consumer spending accounts for about two thirds of all economic activity in the US.

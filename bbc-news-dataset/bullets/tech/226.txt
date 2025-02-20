@@ -1,5 +1,9 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush
-- Netcraft said attempts to view the site failed through its monitoring stations in London, Amsterdam and Sydney
-- The site can still be seen using anonymous proxy services based in the US
-- The blocking of browsers sited outside the US began in the early hours of Monday morning
-- The George W Bush website began using the services of a company called Akamai to ensure that the pages, videos and other content on its site reaches visitors
+- The digital divide will persist, with those without home access missing out more.
+- Internet access on other devices is mainly for those who already have it.
+- Optimistic predictions about convergence bridging the digital divide may be wrong.
+- Organizations like BT have a responsibility to help tackle the problem.
+- Grassroots activity addressing specific community needs is essential to overcome the digital divide.
+- The idea that the digital divide will evaporate with time is "wishful thinking."
+- Low-income individuals, the disabled, and the elderly will disproportionately make up the digital have-nots by 2025.
+- As more tasks move online, the divide will become more burdensome for those without net access.
+- BT's Everybody Online project offers internet access to people in deprived communities and has seen positive results.

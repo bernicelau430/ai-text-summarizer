@@ -1,6 +1,5 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers
-- A fake Paypal.com has already been registered with Verisign using the Internationalized Domain Name (IDN) system
-- The fake domain, using a Russian 'a', looks identical to the real site but leads to a fake site
-- The fake domain has been handed back to PayPal, but it sets a worrying precedent
-- Registering names that look like legitimate companies but lead users to fake sites to steal passwords and credit card details could become easier
-- The UK Internet Forum (UKIF) is concerned the system will let scammers create fake sites
+- Home surveillance system could ensure house is secure when you go on holiday.
+- The system can watch your behaviour over time, so it can learn this, so it would predict what you are going to do, turn on the lights for you, or, before you even get to the kettle, it could have switched it on.
+- Jeremiah is a virtual face that attempts to emulate humans in the way it responds to activity.
+- Jeremiah's camera went in, nobody minded, because although it's still watching them, they could see what it was watching.
+- Experts say a virtual human could make it easier to make the most of new gizmos.

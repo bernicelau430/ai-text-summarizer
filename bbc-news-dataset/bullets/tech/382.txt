@@ -1,6 +1,11 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush
-- Netcraft monitoring stations in London, Amsterdam, and Sydney failed to view the site
-- US monitoring stations could view the site without problems
-- The George W Bush website began using Akamai's services on 21 October to ensure content delivery
-- The site can still be accessed using anonymous proxy services based in the US
-- The blocking of browsers outside the US began on Monday morning
+- Christian Harris (Zed) says the new system is essential for consumer trust in mobile content sales.
+- Some firms told to revamp websites for transparency.
+- Vodafone briefly cut off 8-10 content sellers for flouting rules.
+- Consumers have the right to be protected from abuse.
+- Concerns arose because services were not being marketed transparently.
+- Move to subscriptions happened quickly at the end of 2004.
+- Fierce competition makes it difficult for firms to get their content to consumers (Jeremy Flynn, Vodafone).
+- System designed to limit consumer spending if inadvertently signed up.
+- Swift adoption of subscriptions led to a new code of conduct.
+- Firms flouting rules can be cut off from UK phone networks.
+- Rules require transparency on costs and cancellation.

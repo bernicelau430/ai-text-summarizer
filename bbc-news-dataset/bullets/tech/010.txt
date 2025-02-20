@@ -1,3 +1,6 @@
-- The Department of Justice said that both men pleaded guilty to one count of conspiracy to commit felony copyright infringement
-- The piracy group called itself the Underground Network and membership of it demanded that users share between one and 100 gigabytes of files
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US
+- Google released a trial tool called AutoLink that directs people to pre-selected commercial websites.
+- If a user clicks AutoLink in the Google toolbar, a webpage with a book's ISBN number links directly to Amazon's website.
+- Some users want websites to sign up for AutoLink or receive revenue for click-throughs.
+- Google said none of the linked companies paid for the service.
+- Google stated the feature is in beta and welcomes user feedback.
+- Users can choose to disable AutoLink entirely.

@@ -1,5 +1,4 @@
-- Market analysts Panlogic predicts that net users in China will exceed the 137 million US users of the net by 2008.
-- China's net users number 100m but this represents less than 8% of the country's 1.3 billion people.
-- The net is key to helping Chinese people keep in touch with friends.
-- Credit cards are rare in China partly because of fears people have about getting in to debt.
-- Government restrictions on how much advertising can appear on television means that the net is a source of many commercial messages Chinese people would not see anywhere else.
+- British Telecom has said it will double the broadband speeds of most of its home and business customers.
+- Upload speeds will remain at the same speed.
+- Many BT customers will now have download speeds of 2Mbps.
+- Britain continues to lag behind some countries - especially Japan and South Korea - which offer broadband speeds of up to 40Mbps.

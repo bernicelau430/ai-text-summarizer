@@ -1,3 +1,5 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers
-- A fake Paypal.com has already been registered
-- The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'
+- New strains of the Cabir mobile phone virus use short-range radio technology to spread to vulnerable phones.
+- The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.
+- A mistake in the original Cabir meant it could only infect one phone at a time.
+- The new Cabir strains have corrected this mistake.
+- There are no reports of any phones being infected by the new variants of Cabir.

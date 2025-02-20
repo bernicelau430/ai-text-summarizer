@@ -1,4 +1,13 @@
-- The head of Surrey's Lionhead Studios was granted the honour for services to the computer games industry.
-- Mr Molyneux has been a pivotal figure in the computer games industry for almost 20 years.
-- He left Bullfrog in 1997 to set up Lionhead Studios which was behind the ambitous and widely acclaimed game Black & White.
-- Mr Molyneux said that his involvement with the games industry started almost by accident as back in the early days game making was more a hobby than a career.
+- So far there have been no attacks involving gigabytes of data.
+- Many of the gambling sites suffering DDoS attacks are in offshore data and hosting centres.
+- Any large scale data flood could knock out access to many more sites than just the one the criminals were targeting.
+- It's about understanding what's genuine traffic and keeping attack traffic from going to the site.
+- The most common types of attacks hit sites with 10 megabytes of data over short periods of time.
+- Bigger attacks sending down 200 megabytes of traffic or more were rarely seen.
+- Customers were getting hit every four to five days.
+- Technology allows to detect attacks in minutes.
+- The only way to properly combat these so-called Distributed Denial-of-Service attacks was with intelligent net-based systems.
+- The serious players tend to precede an attack with some kind of ransom e-mail.
+- DDoS attacks typically use thousands of computers in many different countries.
+- Each participating machine only sends a small part of the entire data flood.
+- Net firms were starting to work more closely together on the problem of DDoS attacks.

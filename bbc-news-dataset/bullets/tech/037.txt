@@ -1,10 +1,5 @@
-- Vodafone and Cellnet were the only mobile operators until 1993
-- Vodafone had the only mobile network in the UK for the first nine days of 1985
-- The first UK mobile call was made on Vodafone on January 1, 1985, by Ernie Wise
-- The first call was in 1973 in New York, but the first service took 10 years
-- UK mobile phones are celebrating their 20th anniversary
-- The phones used analogue radio signals which made them easy to eavesdrop on
-- The UK was not far behind in setting up networks in 1985
-- Phones were the size of briefcases, cost about £2,000 and had a battery life of 20 minutes
-- 90% of Britons own a handset
-- Vodafone has 14m customers in the UK
+- A US woman is suing Hewlett Packard (HP), alleging that its printer ink cartridges are secretly programmed to expire on a certain date.
+- The lawsuit seeks to represent anyone in the US who has purchased an HP inkjet printer since February 2001.
+- The cost of printer cartridges has been a contentious issue in Europe.
+- A Computeractive Magazine study revealed that the running costs of inkjet printers can be high due to cartridge prices.
+- HP ink cartridges use chip technology to sense when they are low on ink.

@@ -1,4 +1,5 @@
-- Consumers are concerned about the use of radio frequency ID (RFID) tags in shops, a survey says.
-- More than half (55%) of the respondents said they were either concerned or very concerned that RFID tags would allow businesses to track consumers via product purchases.
-- 59% of people said they were worried that RFID tags would allow data to be used more freely by third parties.
-- The survey showed that awareness of tags among consumers in Europe was low.
+- The draft law was not adopted by EU ministers as planned at a Brussels meeting.
+- The fresh delay came after Polish officials had raised concerns about the law for the second time in two months.
+- Poland requested more time to consider the issue because it was concerned that the law could lead to the patenting of pure computer software.
+- Critics say the law would favour large companies over small ones and could impact open-source software innovation.
+- Supporters say current law does not let big companies protect inventions which they have spent years developing.

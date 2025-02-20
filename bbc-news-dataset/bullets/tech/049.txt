@@ -1,3 +1,5 @@
-- A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned.
-- As the idea was to prove a point rather than be malicious the fake domain has now been handed back to Paypal but it sets a worrying precedent, Mr Dyer said.
-- The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force.
+- A fake Paypal.com domain has been registered using the Internationalised Domain Name (IDN) system.
+- The fake domain looks identical to the real site but could lead users to a fake site for stealing information.
+- The fake domain has been handed back to Paypal.
+- The UK Internet Forum (UKIF) warns that the IDN system could make it easier for scammers to create fake sites.
+- The Internationalised Domain Names system has been approved by the Internet Electronic Task Force.

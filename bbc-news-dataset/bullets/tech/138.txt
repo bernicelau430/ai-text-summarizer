@@ -1,3 +1,4 @@
-- Broadband over the phone line makes up 11.4 million connections, according to the FCC figures.
-- The total number of people and businesses on broadband rose to 32.5 million in the year ending June 2004, compared to 23.5 million in June 2003.
-- The number of people and business connected to broadband jumped by 38% in a year, said the US Federal Communications Commission (FCC).
+- Microsoft's Internet Explorer has a serious rival in the long-awaited Firefox 1.0 web browser, which has just been released.
+- Internet monitoring firm WebSideStory has charted the growing population of people using the Firefox browser and says it is responsible for slowly eroding the stranglehold of IE.
+- Firefox is proving popular because, at the moment, it has far fewer security holes than Internet Explorer and has some innovations lacking in Microsoft's program.
+- A campaign co-ordinated by the Spread Firefox website attempted to raise the $50,000 needed for a full page advert in the New York Times.

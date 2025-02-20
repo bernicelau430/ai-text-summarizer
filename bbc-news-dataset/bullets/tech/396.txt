@@ -1,5 +1,9 @@
-- The EU's Lifeplus project aims to replace audio tours with computer-generated images that bring historical sites to life
-- The technology combines digital people and computer-generated elements with the actual view seen by tourists
-- The camera captures the view and feeds it to software that combines the viewpoint with animated virtual elements
-- Visitors could see life as it was originally lived in places like Pompeii
-- The software interprets the visitor's view and provides an accurate match between the real and virtual elements
+- New studios should make games for mobile phones and handheld consoles like the Sony PSP and the Nintendo DS, since they are cheaper and easier to create than console games.
+- EA plans to release up to 20 mobile games over the next 12 months.
+- By 2006, mobile phones would be capable of running games of comparable quality to those on Sony's upcoming PSP handheld console.
+- The Game Developers Conference included a special two-day summit dedicated to creating mobile games.
+- Mobile games are a fast-growing sector because newer phones have better graphics and sound, and are thus more suitable for playing games.
+- EA Mobile is a division of Electronic Arts, the biggest games publisher.
+- Making games for future consoles will require more graphic artists and more money, an industry conference has been told.
+- It will be difficult for anyone to start a new game studio.
+- One area not yet dominated by graphical blockbusters is mobile phone games.

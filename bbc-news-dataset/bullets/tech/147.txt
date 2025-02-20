@@ -1,8 +1,5 @@
-- A study suggests that 40% of those buying home net security programs are retired.
-- 40% of all home PC net security buyers will be women in 2005.
-- Older people and women are increasingly protecting home computers against net attacks.
-- Service providers need to educate people about net threats before they go online.
-- More people are taking criminal net threats seriously because they are reported more.
-- Retired women buy more security software than retired men.
-- Broadband surpasses dial-up for UK households.
-- A study showed that more than 30,000 PCs a day globally are being recruited into networks that spread spam and viruses.
+- Lycos Europe's campaign against spam-related websites has been put on hold.
+- The action is in response to spammers redirecting traffic back to the Lycos screensaver site.
+- The site hosting the screensaver now displays a pink graphic and the words "Stay tuned".
+- The idea was to get the spam sites running at 95% capacity and generate big bandwidth bills for the spammers.
+- People were encouraged to download the screensaver to send data to spam sites when their PC was idle.

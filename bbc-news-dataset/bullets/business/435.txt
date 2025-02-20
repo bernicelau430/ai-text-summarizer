@@ -1,7 +1,3 @@
-- Pan-European group Euronext is poised to launch a bid for the London Stock Exchange (LSE).
-- Last week, the LSE rejected a takeover proposal from German rival Deutsche Boerse, valued at about £1.35bn.
-- The LSE said the bid was undervalued and there was no assurance any transaction could be successfully implemented.
-- Euronext already has a presence in London due to its 2001 acquisition of London-based options and futures exchange Liffe.
-- Trades on the LSE are cleared via Clearnet, in which Euronext has a quarter stake.
-- Euronext appointed UBS and ABN Amro as additional advisors last week.
-- While Mr. Seifert suggested a merged company would be run out of London, the mayor of Frankfurt raised concerns about potential job losses.
+- Australian brewer Fosters has bought a large stake in Australian winemaker Southcorp.
+- Fosters bought 18.8% of Southcorp for 4.17 Australian dollars per share.
+- Analysts are divided on whether Fosters will launch a takeover or merely prevent Southcorp from falling to a rival.

@@ -1,4 +1,6 @@
-- Andrew Stoddart, chief scientist at 2d3, said that the EU project has been driven by a new desire to bring the past to life
-- Unlike virtual reality, the Lifeplus project is about combining digital and real views
-- It would allow visitors a glimpse of life as it was originally lived in places such as Pompeii
-- The technology would allow digital people and other computer-generated elements to be combined with the actual view seen by tourists as they walk around an historical site
+- Sun likened grid computing to the development of electricity.
+- Sun Grid costs $1 per hour for processing and storage power.
+- Sun Grid relies on Solaris, Sun's operating system.
+- Some customers want to book capacity of more than 5,000 processors.
+- Sun Microsystems launched a pay-as-you-go service for renting huge computing power.
+- Grid computing is a key concept for Sun, viewing computing capacity as a commodity.

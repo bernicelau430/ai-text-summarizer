@@ -1,4 +1,12 @@
-- BT reports that more people signed up for broadband in the last three months than in any other quarter.
-- The 600,000 connections take the total number of people in the UK signing up for broadband from BT to almost 3.3 million.
-- There are now more than 300 different firms offering CPS services and the percentage of people using BT lines for voice calls has shrunk to 55.4%.
-- Nationally more than 5 million browse the net via broadband.
+- DRM systems were intended to control consumers.
+- By setting up an alliance, firms hope to end fragmentation of file formats.
+- Many firms admit that their DRM systems offer little protection against skilled attackers.
+- Locks and limits on digital files maximize cash that firms can make from consumers.
+- No DRM system has ever prevented piracy or illegal copying.
+- The firms want to let consumers enjoy licensed video and music on any device, regardless of how they obtained it.
+- Limits legal download services place on files could help explain the continuing popularity of file-sharing systems.
+- The technology will sit alongside content control systems of rival firms like Microsoft and Apple.
+- Different DRM systems are akin to different physical formats like Betamax and VHS.
+- The firms want to ensure files play on their hardware but also thwart illegal copying.
+- The move is seen as a way for the firms to decide their own destiny on content control systems.
+- The firms hope it will make it harder for consumers to make illegal copies of digital content.

@@ -1,10 +1,4 @@
-- Cellnet and Vodafone were the only mobile phone operators in the UK until 1993.
-- In the first nine days of 1985, Vodafone was the only firm with a mobile network in the UK.
-- The first mobile phone call was made on the Vodafone network on January 1, 1985.
-- The first call over a portable phone was made in 1973 in New York.
-- UK mobile phones are celebrating their 20th anniversary.
-- Phones used analogue radio signals, making them easy to eavesdrop on.
-- In 1985, networks in the UK allowed people to make calls while walking.
-- Early mobile phones were the size of a briefcase, cost about £2,000, and had a 20-minute battery life.
-- Now, almost 90% of Britons own a mobile phone.
-- Vodafone has 14 million customers in the UK alone.
+- Carnegie Mellon Professor Raj Reddy has spent the bulk of his professional career trying to find ways to make technology accessible to poor people.
+- The first step is to figure out why poor people would want a personal computer and Professor Reddy thinks he has a pretty good idea of why they might.
+- Prof Reddy says he hopes to lease the PCtvts for about $10 a month, and thinks Indians will rent the units for the television and DVD capabilities.
+- Prof Reddy also thinks that tying it into some kind of aid package was the wrong approach.

@@ -1,5 +1,4 @@
-- Sony has billed the PSP machine as the Walkman of the 21st Century
-- More than 800,000 units have been sold in Japan
-- Gamers fear the EU launch has been delayed
-- Nintendo has said it will release the DS in Europe from 11 March
-- Over 2.8 million units of the Nintendo DS have been sold
+- A blind student has developed software that turns colors into musical notes to read weather maps.
+- The software translates individual colors into music.
+- The blind student believes having a "color memory" makes the software more useful.
+- The student is studying space weather and needed to explore minute fluctuations in order to create mathematical models.

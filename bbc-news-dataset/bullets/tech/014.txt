@@ -1,4 +1,4 @@
-- Scientists at Intel have overcome a fundamental problem that before now has prevented silicon being used to generate and amplify laser light.
-- But the Intel researchers have found a way to suck away these errant electrons and turn silicon into a material that can both generate and amplify laser light.
-- This is despite the fact that silicon is a much better amplifier of light pulses than the form of the material used in fibre optic cables.
-- Dr Paniccia said that the structure of silicon meant that when laser light passed through it, some colliding photons rip electrons off the atoms within the material.
+- The European Parliament rejected a bill that would have allowed software to be patented.
+- The bill required approval from both the European Parliament and a qualified majority of EU states.
+- The bill will go through another round of consultation if it is to become law.
+- Some proponents argued it was a good compromise to avoid excesses like in the American system.

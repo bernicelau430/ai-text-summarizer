@@ -1,4 +1,10 @@
-- Argonaut has been put up for sale.
-- Argonaut was behind the Harry Potter games which provided a healthy flow of cash into the company.
-- Argonaut warned that it was low on cash 10 days ago when its shares were suspended from trading on the London Stock Exchange.
-- Argonaut has been making games for some 18 years and is one the largest independent games developers in the UK.
+- Broadband became mass market as BT and Telewest offered 512K for under £20.
+- BT expanded its reach, covering over 95% of the population.
+- UK broadband connections overtook dial-up by September.
+- BT announced a new broadband connection every 10 seconds in December.
+- BT reduced local loop unbundling costs by 70% in May.
+- Broadband was mentioned frequently in the news.
+- Some firms touted broadband for under £10, raising questions about sustainability.
+- Upgrading to 1Mbps required living within 6 kilometers of an exchange.
+- Increased speeds (2Mb and 3Mb) and free upgrades were significant.
+- Cable operators considered extending their range via local loop unbundling.

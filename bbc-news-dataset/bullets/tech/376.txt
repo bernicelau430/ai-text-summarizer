@@ -1,4 +1,8 @@
-- The net search giant Google has launched a search service that lets people look for TV programmes.
-- The service, Google Video beta, searches closed caption information that comes with programmes.
-- It searches for and links to TV news, film trailers, and other video and audio clips.
-- The results thrown up by the search will also include programme and episode information like channel, date and time.
+- T-Mobile has launched a 3G "pocket office" device with built-in wi-fi.
+- T-Mobile will introduce a flat-fee £20 a month wi-fi tariff in the UK.
+- T-Mobile is installing high-speed wi-fi on train services, like London to Brighton.
+- The device automatically selects the fastest available network for data transfer.
+- T-Mobile will nearly double its global hotspots from 12,300 to 20,000.
+- Wi-fi access points will connect to a faster Wimax wireless network running alongside train tracks.
+- T-Mobile will add the latest phone-shaped Blackberry to its mobile range.
+- The mobile industry is still growing with more service opportunities.

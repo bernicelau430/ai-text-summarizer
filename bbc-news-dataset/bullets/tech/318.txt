@@ -1,3 +1,7 @@
-- Call of Duty has been updated for console formats.
-- Pacific Assault does more things right, including autosaving intelligently and having tidier presentation.
-- Both games rely on a carefully stage-managed structure that keeps things ticking along.
+- Ask Jeeves acquired Bloglines but it was not revealed how much they paid.
+- Ask Jeeves said it was not planning to change Bloglines but would use the 300 million articles it has archived to round out its index of the web.
+- Ask Jeeves would be helping organise the database of 300m blog entries Bloglines holds with its own net indexing technology.
+- There would be no instant sweeping changes to Bloglines.
+- It would also help drive information and entries from blogs to the portals that Ask Jeeves operates.
+- Ask Jeeves was much more interested in helping people find information rather than helping them write it.
+- The acquisition would sit well with Ask's My Jeeves service which lets people customise their own web experience and build up a personal collection of useful links.

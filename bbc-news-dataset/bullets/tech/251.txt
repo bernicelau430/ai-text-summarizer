@@ -1,6 +1,6 @@
-- Commodore was one of the pioneers in home computing.
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs.
-- Commodore International filed for bankruptcy in 1994 and was sold to Tulip Computers.
-- The Commodore computer brand could be resurrected after being bought by a US-based digital music distributor.
-- The Commodore 64 sold more than any other single computer system, even to this day.
-- In the late 1980s, the firm was a rival to Atari.
+- Video Relay Service is being piloted by the Royal National Institute for Deaf People (RNID).
+- The service allows deaf people to communicate using British Sign Language (BSL).
+- Deaf person uses a webcam or videophone to connect with a BSL interpreter.
+- The interpreter relays the conversation using a telephone and translates the other person's response into sign language.
+- UK lags behind other countries in providing relay services at the cost of an ordinary phone call.
+- The telecommunications sector is discriminating against sign language users by failing to fund the video relay service.

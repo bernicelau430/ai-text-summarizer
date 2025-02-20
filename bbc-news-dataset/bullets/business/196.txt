@@ -1,7 +1,5 @@
-- Mr. Sullivan, 42, pleaded guilty to fraud and will be sentenced after Mr. Ebbers' trial.
-- Mr. Sullivan is a prosecution witness in Mr. Ebbers' trial.
-- Mr. Sullivan was cross-examined by lawyers for former WorldCom CEO Mr. Ebbers.
-- Mr. Ebbers is on trial for fraud and conspiracy related to WorldCom's 2002 collapse.
-- Mr. Ebbers, 63, claims he was unaware of financial shortfalls at WorldCom.
-- Attorney Reid Weingarten tried to portray Mr. Sullivan as a liar.
-- Mr. Sullivan said Mr. Ebbers knew about improper accounting entries between 2000 and 2002 to conceal expenses and inflate revenue.
+- Mr. Sullivan has already pleaded guilty to fraud and will be sentenced following Mr. Ebbers' trial.
+- Mr. Ebbers is on trial for fraud and conspiracy in relation to WorldCom's collapse in 2002.
+- Mr. Ebbers has always insisted that he was unaware of any hidden shortfalls in WorldCom's finances.
+- Mr. Sullivan was quizzed about his decision to commit fraud to meet analysts' profit estimates.
+- The former finance officer said Mr. Ebbers knew about the improper accounting entries that were made between 2000 and 2002 to conceal soaring expenses and inflate revenue.

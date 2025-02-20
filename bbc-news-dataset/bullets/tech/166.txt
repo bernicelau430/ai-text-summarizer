@@ -1,7 +1,5 @@
-- EA said the video game industry was now bigger than the music industry.
-- More than 50% of all EA's games were sold to adults and played by adults.
-- Video game firms had to work more closely with celebrities.
-- EA wants to become the biggest entertainment firm in the world.
-- EA was working to give video games a more central role in popular culture.
-- EA was planning an international awards show that would combine video games, music, and movies.
-- EA planned a reality TV show in which viewers could control the actions of the characters as in its popular game The Sims.
+- Controlling devices with the brain is a step closer.
+- A wireless cap was demonstrated that read brain waves to control a computer character.
+- Four people, two of them partly paralysed wheelchair users, successfully moved a computer cursor while wearing a cap with 64 electrodes.
+- The research was another step towards people controlling wheelchairs or other electronic devices by thought.
+- Such brain activity does not require the use of any nerves of muscles, so people with stroke or spinal cord injuries could use the cap effectively.

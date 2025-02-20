@@ -1,3 +1,10 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC) despite requests by MEPs
-- Some major tech firms say it is needed to protect inventions, while others fear it will hurt smaller tech firms
-- The EC says the Council of Ministers will adopt a draft version that was agreed upon last May but said it would review "all aspects of the directive"
+- IPv6 will replace IPv4, allowing for billions more addresses on the net.
+- VoIP challenges old telecom cost models.
+- Standards are vital for the net's complexity, ensuring open and cross-network compatibility.
+- The IETF prioritizes open and free standards for the net's functionality.
+- The net was designed for the whole community.
+- Broadband growth opens up challenges for voice and TV services on the net.
+- The IETF oversees the net's growth, ensuring architecture and standards compatibility.
+- IPv6 is the next generation standard for information transfer and routing.
+- Emerging economies like China are driving renewed growth with broadband uptake.
+- Better security internet standards are needed.

@@ -1,5 +1,7 @@
-- Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
-- Attempts to view the site through monitoring stations in London, Amsterdam and Sydney failed.
-- The George W Bush website began using Akamai to ensure the site reaches visitors.
-- The site can still be seen using anonymous proxy services that are based in the US.
-- The blocking of browsers sited outside the US began in the early hours of Monday morning.
+- Over a third of new PCs will be in emerging markets.
+- China to add 178 million new PCs by 2010.
+- India to have 80 million new PC users by 2010.
+- Indonesia to have 40 million new users.
+- US, Europe, Asia-Pacific to add 150 million new PCs by 2010.
+- Local PC makers in China and Russia better positioned to win market share.
+- Western PC vendors unlikely to dominate in the long term.

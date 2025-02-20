@@ -1,5 +1,6 @@
-- Selling Argonaut was the only way to save it as it had run out of cash
-- Argonaut was behind the Harry Potter games which provided a healthy flow of cash into the company
-- Argonaut warned that it was low on cash 10 days ago when its shares were suspended from trading on the London Stock Exchange
-- Argonaut has been making games for some 18 years and is one the largest independent games developers in the UK
-- Staff were told the job losses were necessary to save Argonaut from going under
+- Linus Torvalds led an attack on software patents at a Linux summit in California.
+- He stated that software patents are a problem for the open source movement.
+- There are between 150,000 and 300,000 registered software patents in the US.
+- Open source developers argue that many software patents should not have been granted.
+- Intellect spokeswoman said open source and patents have co-existed for many years without problems.
+- There are concerns that Microsoft would issue a series of patent lawsuits in the future.

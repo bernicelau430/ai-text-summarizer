@@ -1,6 +1,5 @@
-- Wippit offers a download subscription service for £4.99 per month or £50 per year.
-- Pays per track for music is becoming outmoded
-- Fans are moving away from traditional album buying to single tracks or subscription services
-- The technology ensures downloaded music is only playable while the user subscribes to the service
-- Unlimited music subscription service has been offered for over three years
-- US beta-version costs $15 per month for unlimited downloads
+- The EFF has asked California's Superior Court to stop Apple from pursuing the sources of reporters.
+- The case began in December 2004 when Apple asked a Californian court to get journalists to reveal sources for articles published on AppleInsider.com and PowerPage.org.
+- Apple is keen to find the source for information about an unreleased product code-named Asteroid and has asked the journalists' e-mail providers to hand over communications.
+- Rather than confronting the issue of reporter's privilege head-on, Apple is going to the journalist's ISPs for his e-mails.
+- The EFF has gained powerful allies, including Professor Tom Goldstein and Dan Gillmor.

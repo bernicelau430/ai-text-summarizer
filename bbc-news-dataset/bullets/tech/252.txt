@@ -1,4 +1,6 @@
-- New strains of the Cabir mobile phone virus use short-range radio technology to leap to any vulnerable phone in range.
-- The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.
-- Despite the warnings, there are so far no reports of any phones being infected by the new variants of Cabir.
-- A mistake in the original Cabir was corrected in the new strains.
+- 10% of e-mail on the net is infected with the Zafi virus.
+- Zafi.D virus translates "Merry Christmas" into 15 languages.
+- Virus tries to disable anti-virus and firewall software.
+- Opens a backdoor on the PC to hand over control.
+- Security firms warning about virus disguising itself as an electronic Christmas card.
+- Original Zafi virus appeared in April.

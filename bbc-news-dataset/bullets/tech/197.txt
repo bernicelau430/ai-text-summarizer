@@ -1,7 +1,4 @@
-- Argonaut Games, one of Britain's largest independent game makers, has been put up for sale
-- Selling Argonaut was the only way to save it as it had run out of cash
-- The company was behind the Harry Potter games
-- The company warned that it was low on cash 10 days ago when its shares were suspended
-- Staff were told job losses were necessary to save the company from going under
-- New deals were further delayed, leading Argonaut to warn in mid-October that it was running out of cash
-- "A lot of people suspected that Argonaut had been in trouble for some time"
+- The Skulls program is masquerading as software that creates new background images and themes for the main screen of the 7610 phone.
+- The Skulls program is labelled as a file called: 7610.extended.theme.manager.zip.
+- The file, nicknamed Skulls, is thought to have surfaced on shareware sites where people can pick up free add-ons, such as wallpaper, games and ringtones, for their phones
+- Symbian said that it was not sure if the damage Skulls does was intentional or simply a result of bad programming.

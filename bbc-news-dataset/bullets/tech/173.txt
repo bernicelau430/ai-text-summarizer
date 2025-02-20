@@ -1,3 +1,8 @@
-- ScanSoft and Gracenote are developing technology to give people access to their film and music libraries simply by voice control.
-- Music and film fans will be able to control their digital media players just by speaking to them, under plans in development by two US firms.
-- Users will also be able to request music that fits a mood or an occasion, or a film just by saying the actor's name.
+- The US is poised to push Japan off the top of the supercomputing chart with IBM's prototype Blue Gene/L machine.
+- DOE test results show that Blue Gene/L has managed speeds of 70.72 teraflops.
+- IBM said that another Blue Gene/L machine clocked up 36.01 teraflops, marginally surpassing the Earth Simulator's performance.
+- The Linux-based machine was reported to have reached a top speed of 42.7 teraflops in October.
+- By 2006, Blue Gene will be capable of petaflop computing.
+- One area where Mr Donofrio sees supercomputing is health.
+- He believes the machines can help scientists understand one of the greatest challenges of the 21st Century: protein folding.
+- The Cray-1 was capable of 80 megaflops (80 million operations a second).

@@ -1,5 +1,9 @@
-- Commodore was one of the pioneers in home computing.
-- The Commodore 64, launched in 1982, was one of the first affordable home PCs.
-- Commodore International filed for bankruptcy in 1994 and was sold to Dutch firm Tulip Computers.
-- The Commodore 64 sold more than any other single computer system, even to this day.
-- In the late 1980s the firm was a great rival to Atari, which produced its own range of home computers.
+- The Cell processor will run 10-times faster than current PC chips.
+- Sony, IBM and Toshiba unveiled the chip.
+- The chip is being designed for use in graphics workstations, the new PlayStation console, and has been described as a supercomputer on a chip.
+- IBM has said it will sell a workstation with the chip starting later this year.
+- The chip will run at speeds of greater than 4 GHz.
+- By comparison, Intel's fastest processor runs at 3.8 GHz.
+- Cell was "OS neutral" and would support multiple operating systems simultaneously.
+- Designers would not confirm if Microsoft's Windows was among those tested with the chip.
+- The chip's designers have said the flexible architecture means that it would be useful for a wide range of applications.

@@ -1,4 +1,9 @@
-- Old-fashioned audio tours of historical places could be replaced with computer-generated images that bring the site to life
-- The technology would allow digital people and other computer-generated elements to be combined with the actual view seen by tourists
-- The camera captures the view and feeds it to software on the computer where the visitor's viewpoint is combined with animated virtual elements
-- Crucial to the technique is the software that interprets the visitor's view and provides an accurate match between the real and virtual elements
+- Sony, IBM, and Toshiba will unveil the Cell processor at a technology conference.
+- The chip has been worked on for three years.
+- It is designed for use in graphics workstations, the new PlayStation console.
+- The chip has been described as a supercomputer on a chip.
+- The Cell processor could bridge the gap between movies and video games.
+- IBM will start producing the chip in early 2005.
+- The chip can handle detailed graphics and the data demands of films and broadband media.
+- The chip is reported to be up to 10 times faster than current processors.
+- Details of the chip will be released at the International Solid State Circuits Conference in San Francisco.

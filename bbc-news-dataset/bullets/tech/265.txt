@@ -1,5 +1,8 @@
-- Microsoft has warned PC users to update their systems with the latest security fixes for Windows programs.
-- One of the critical patches fixes some IE flaws.
-- Eight critical security holes could leave PCs open to attack if left unpatched.
-- Spates of viruses often follow when a critical flaw is announced.
-- The number of critical holes is more than usual.
+- 53 million people in the UK own a mobile phone.
+- Half of those phones use GPRS.
+- GPRS enables web browsing, news, mobile music, and chat.
+- Phones with GPRS and MMS doubled since last year.
+- Mobile companies want users to use multimedia functions for increased revenue.
+- MDA predicts 75% of UK mobiles will access the net via GPRS by end of 2005.
+- Critics find MMS confusing and some mobiles difficult to use.
+- Companies are still battling to persuade people to go online and use MMS.

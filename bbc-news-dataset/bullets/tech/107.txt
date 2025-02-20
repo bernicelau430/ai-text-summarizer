@@ -1,2 +1,5 @@
-- An organisation has been launched to encourage disabled people to get involved in all aspects of motorsport, which is now increasingly possible thanks to technological innovations.
-- The Motorsport Endeavour Club is hoping that putting such technologies on display will result in more disabled people becoming involved in all areas of the sport and at every level.
+- The Wolong Nature Reserve in China is home to 20% of the world's giant pandas.
+- A wireless internet network has been installed to help the panda population.
+- The reserve includes an 802.11b wireless network and a video monitoring system with five cameras.
+- Staff can chronicle the pandas' daily activities.
+- Intel developed the network in collaboration with Wolong staff.

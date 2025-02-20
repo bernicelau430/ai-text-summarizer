@@ -1,3 +1,5 @@
-- An organisation has been launched to encourage disabled people to get involved in all aspects of motorsport, which is now increasingly possible thanks to technological innovations
-- Motorcycle racer, Roy Tansley, from Derby developed his electronic sequential gear changer following an accident which resulted in part of his left leg being amputated
-- The Motorsport Endeavour Club is hoping that putting such technologies on display will result in more disabled people becoming involved in all areas of the sport and at every level
+- IBM is increasing its commitment to Linux software with a $100m investment over three years.
+- The investment will fund technical, research, and marketing initiatives.
+- The goal is to boost Linux use on devices from handhelds to servers.
+- The decision is in response to greater customer demand for open source software.
+- Linux is based on the premise that developers should be free to tinker with software programs.

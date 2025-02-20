@@ -1,5 +1,5 @@
-- The first convictions for piracy over peer-to-peer networks have been handed down in the US
-- The two men faced charges following raids in August on suspected pirates by the FBI
-- The Department of Justice said the two men operated the central hubs in a piracy community organised across the Direct Connect peer-to-peer network
-- The piracy group called itself the Underground Network and membership of it demanded that users share between one and 100 gigabytes of files
-- The Department of Justice said that both men pleaded guilty to one count of conspiracy to commit felony copyright infringement
+- Consumer electronics companies want UWB to replace cables and simplify set-up.
+- Intel is developing ultra-wideband technology (UWB).
+- Intel says the benefit of UWB is that it does not interfere with other wi-fi technologies already in use such as wi-fi, wimax and mobile phone networks.
+- Intel announced that two UWB groups, WiMedia Alliance and Multi-band OFDM alliance had merged to support the technology.
+- UWB is tipped to be used for wireless transfer of video in the home or office and for use in wireless USB devices which need low power consumption.

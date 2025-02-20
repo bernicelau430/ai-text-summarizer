@@ -1,4 +1,5 @@
-- A proposed European law on software patents will not be re-drafted by the European Commission (EC) despite requests by MEPs.
-- Supporters say current laws are inefficient and it would serve to even up a playing field without bringing EU laws in line with the US.
-- Some major tech firms say it is needed to protect inventions, while others fear it will hurt smaller tech firms
-- The EC says the Council of Ministers will adopt a draft version that was agreed upon last May but said it would review "all aspects of the directive".
+- A survey of wi-fi networks in London, Frankfurt, New York and San Francisco by RSA Security found more than a third had basic security features turned off.
+- On average 33% of the wireless networks found by RSA and NetSurity researchers in London, Frankfurt, New York and San Francisco had not used basic security systems.
+- RSA said that 26% of wi-fi networks found London used default settings compared to 30% in Frankfurt, 31% in New York and 28% in San Francisco.
+- This popularity shows no sign of slowing reveals the annual RSA Security and NetSurity survey which found an annual 66% growth rate in the number of wireless nets being installed in London and Frankfurt.
+- By contrast last year's survey found that 15% of firms had failed to take basic steps to improve security.

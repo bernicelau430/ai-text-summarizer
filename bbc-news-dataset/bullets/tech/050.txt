@@ -1,4 +1,5 @@
-- Broadband over phone lines makes up 11.4 million connections
-- Total broadband connections rose to 32.5 million by June 2004
-- This is up from 23.5 million in June 2003
-- US FCC reports a 38% jump in broadband connections in one year
+- Texas Instruments is keen to make multimedia functions like video and gaming more affordable for mobile phones.
+- Texas is aiming to capitalize on the 3G mobile technology.
+- Operators are keen to encourage people to move onto more sophisticated handsets that can do more.
+- A mobile phone chip combines a modem and a computer processor on one silicon.
+- The chip uses less power, which means less strain on mobile battery life.
