@@ -1,0 +1,15 @@
+rouge_score
+evaluate
+wandb
+datasets
+python-dotenv
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+transformers
+transformers[torch]
+seaborn
+pymupdf
+tf-keras
+numpy==1.23.5
+FuzzyTM>=0.4.0
