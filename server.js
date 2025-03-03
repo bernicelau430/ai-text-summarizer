@@ -19,6 +19,9 @@ const upload = multer({ storage: storage });
 app.use(cors());
 app.use(express.static('./'));
 
+// CHANGE PATH TO VENV BASED ON USER!!  
+const PYTHON_PATH = '/Users/yiummy/ProgrammingStuff/VSCode/CSC480/env/bin/python3'
+
 // Serve the HTML file
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
@@ -34,7 +37,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
     const filePath = path.join(__dirname, req.file.path);
 
     // Spawn Python process
-    const pythonProcess = spawn('python3', ['process_file.py', filePath]);
+    const pythonProcess = spawn(PYTHON_PATH, ['process_file.py', filePath]);
 
     let pythonData = "";
 
@@ -48,6 +51,8 @@ app.post('/upload', upload.single('file'), (req, res) => {
         if (code !== 0) {
             return res.status(500).json({ error: 'Python processing failed' });
         }
+        
+        //console.log('Response data:', { message: 'File uploaded and processed successfully', result: pythonData });
         res.json({ 
             message: 'File uploaded and processed successfully',
             result: pythonData

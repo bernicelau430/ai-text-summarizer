@@ -37,6 +37,28 @@
             margin-top: 20px;
             padding: 10px;
         }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+            text-align: left;
+            white-space: pre-line; /* This preserves line breaks */
+            font-family: Georgia, serif;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .hidden {
+            display: none;
+        }
+        .result-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: block;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
     </style>
 </head>
 <body>
@@ -48,18 +70,23 @@
         <button class="upload-btn" onclick="uploadFile()" style="margin-left: 10px;">Upload</button>
     </div>
     <div id="status"></div>
+    <div id="result" class="hidden"></div>
 
     <script>
         document.getElementById('fileInput').addEventListener('change', function(e) {
             const fileName = e.target.files[0]?.name;
             if (fileName) {
                 document.getElementById('status').textContent = `Selected file: ${fileName}`;
+                document.getElementById('result').classList.add('hidden');
             }
         });
 
         async function uploadFile() {
             const fileInput = document.getElementById('fileInput');
             const statusDiv = document.getElementById('status');
+            const resultDiv = document.getElementById('result');
+            
+            resultDiv.classList.add('hidden');
             
             if (!fileInput.files.length) {
                 statusDiv.textContent = 'Please select a file first.';
@@ -71,15 +98,21 @@
             formData.append('file', file);
 
             try {
-                statusDiv.textContent = 'Uploading...';
+                statusDiv.textContent = 'Uploading and processing...';
                 const response = await fetch('http://localhost:3000/upload', {
                     method: 'POST',
                     body: formData
                 });
 
                 if (response.ok) {
-                    const result = await response.json();
-                    statusDiv.textContent = 'File uploaded successfully!';
+                    const data = await response.json();
+                    statusDiv.textContent = data.message;
+                    
+                    // Display processing result with preserved formatting
+                    if (data.result) {
+                        resultDiv.innerHTML = '<span class="result-title">Processing Result:</span>' + data.result;
+                        resultDiv.classList.remove('hidden');
+                    }
                 } else {
                     statusDiv.textContent = 'Upload failed. Please try again.';
                 }
