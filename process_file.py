@@ -1,7 +1,10 @@
 import sys
 import pandas as pd
-# Import any other libraries you need
+
 import pymupdf 
+
+import os
+from dotenv import load_dotenv
 
 import seaborn as sns
 
@@ -22,8 +25,8 @@ from evaluate import load
 
 from tqdm import tqdm
 
-# import wandb
-# import huggingface_hub
+import wandb
+import huggingface_hub
 
 import nltk
 from nltk.tokenize import sent_tokenize
@@ -62,7 +65,11 @@ def process_file(file_path):
 
     model_ckpt = "facebook/bart-base"
     model2 = AutoModelForSeq2SeqLM.from_pretrained(model_ckpt).to(device)
-    model2.load_state_dict(torch.load(file_path, weights_only=True))
+    state_dict = torch.load(file_path, map_location = device) 
+
+    #return state_dict.keys()
+
+    model2.load_state_dict(state_dict)
 
     # Tokenize input text
     tokenizer = AutoTokenizer.from_pretrained(model_ckpt)
