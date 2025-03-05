@@ -20,7 +20,7 @@ app.use(cors());
 app.use(express.static('./'));
 
 // CHANGE PATH TO VENV BASED ON USER!!  
-const PYTHON_PATH = '/Users/yiummy/ProgrammingStuff/VSCode/CSC480/env/bin/python3'
+const PYTHON_PATH = '/Users/yiummy/ProgrammingStuff/VSCode/CSC480/torch_env/bin/python3'
 
 // Serve the HTML file
 app.get('/', (req, res) => {

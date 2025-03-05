@@ -44,7 +44,7 @@
             border-radius: 4px;
             background-color: #f9f9f9;
             text-align: left;
-            white-space: pre-line; /* This preserves line breaks */
+            white-space: pre-line; 
             font-family: Georgia, serif;
             max-height: 300px;
             overflow-y: auto;
@@ -108,7 +108,6 @@
                     const data = await response.json();
                     statusDiv.textContent = data.message;
                     
-                    // Display processing result with preserved formatting
                     if (data.result) {
                         resultDiv.innerHTML = '<span class="result-title">Processing Result:</span>' + data.result;
                         resultDiv.classList.remove('hidden');
