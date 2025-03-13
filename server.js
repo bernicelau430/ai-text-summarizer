@@ -1,3 +1,7 @@
+// CHANGE PATH TO VENV BASED ON USER!!
+// example:
+// const PYTHON_PATH = '/Users/username/code/ai-text-summarizer/.venv/bin/python3'
+
 const express = require('express');
 const multer = require('multer');
 const cors = require('cors');
@@ -9,7 +13,7 @@ const app = express();
 // Configure multer for file upload
 const storage = multer.diskStorage({
     destination: './uploads/',
-    filename: function(req, file, cb) {
+    filename: function (req, file, cb) {
         cb(null, Date.now() + '-' + file.originalname);
     }
 });
@@ -19,8 +23,6 @@ const upload = multer({ storage: storage });
 app.use(cors());
 app.use(express.static('./'));
 
-// CHANGE PATH TO VENV BASED ON USER!!  
-const PYTHON_PATH = '/Users/yiummy/ProgrammingStuff/VSCode/CSC480/torch_env/bin/python3'
 
 // Serve the HTML file
 app.get('/', (req, res) => {
@@ -51,9 +53,9 @@ app.post('/upload', upload.single('file'), (req, res) => {
         if (code !== 0) {
             return res.status(500).json({ error: 'Python processing failed' });
         }
-        
+
         //console.log('Response data:', { message: 'File uploaded and processed successfully', result: pythonData });
-        res.json({ 
+        res.json({
             message: 'File uploaded and processed successfully',
             result: pythonData
         });
