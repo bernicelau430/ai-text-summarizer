@@ -32,15 +32,19 @@ To run the program, make sure you have Python installed (3.12 recommended). You 
 After installing, be sure you have pip, which you can download by running `python -m ensurepip --upgrade`
 You can install the required python libraries with pip: `pip install -r requirements.txt`
 
-2. Installing NodeJS and dependencies
+2. Training the model
+
+Run the jupyter notebook `text-summarizer.ipynb` to train the model on the dataset. This will create `model.pth` to be used by the web interface. You can try simple queries directly in the notebook if you want.
+
+3. Installing NodeJS and dependencies
 
 Next, to run the self hosted server, ensure you have NodeJS installed. You can find that [here](https://nodejs.org/en/download).
 After installing, install node dependencies with `npm install express multer cors`
 
-3. Setting Python path
+4. Setting Python path
 
 Finally, edit `server.js` and follow the instructions on lines 1-3 to set the path of your python installation from step 1.
 
-4. Running the program
+5. Running the program
 
-To run, in your terminal, run `node server.js`. Then in a browser, navigate to [localhost:3000](http://localhost:3000). From there, you can upload `.txt` or `.pdf` files, such as the provided `example.pdf` file about the Amazon rainforest to get a bullet point summary!
+To run, in your terminal, run `node server.js`. Then in a browser, navigate to [localhost:3000](http://localhost:3000). From there, you can upload `.txt` or `.pdf` files, such as the provided `example.pdf` file about the Amazon rainforest to get a bullet point summary of the text!
