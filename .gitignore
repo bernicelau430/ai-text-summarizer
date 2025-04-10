@@ -1,6 +1,5 @@
 # .gitignore
 .env
 .DS_Store
-model.pth
 node_modules
 uploads
